@@ -11,11 +11,11 @@ Requeriments: node > `v5.5.0` i composer (alguna versió no molt antiga)
     composer install
     npm install
 
-Si no es disposa del webpac-dev-server 
+Si no es disposa del webpack-dev-server 
 
-    npm install -g webpack webpack-dev-server
+    `npm install -g webpack webpack-dev-server`
 
-* La primera vegada, serà menester executar webpack per a moure tots els assets.
+La primera vegada, serà menester executar webpack per a moure tots els assets.
     
     `webpack`
 
