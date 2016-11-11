@@ -1,0 +1,1929 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bs",
+				"bs3-button\tbs3-button"
+			],
+			[
+				"usuari",
+				"usuariYaml"
+			],
+			[
+				"usua",
+				"usuariYaml"
+			],
+			[
+				"usari",
+				"usuariEntity"
+			],
+			[
+				"usu",
+				"usuariEntity"
+			],
+			[
+				"Usu",
+				"usuariEntity"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"pirn",
+				"print_r"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"cancel",
+				"cancelerUser"
+			],
+			[
+				"REDEMPTION",
+				"redemptionDate"
+			],
+			[
+				"pur",
+				"PurchasedProduct"
+			],
+			[
+				"Cancel",
+				"CancelPurchasedProduct"
+			],
+			[
+				"cance",
+				"cancelPurchasedProduct"
+			],
+			[
+				"redem",
+				"redemptionDateObj"
+			],
+			[
+				"bicing",
+				"bicingProduct"
+			],
+			[
+				"getI",
+				"getId"
+			],
+			[
+				"pp",
+				"ppId"
+			],
+			[
+				"purchased",
+				"purchasedProduct"
+			],
+			[
+				"player",
+				"playerId"
+			],
+			[
+				"product",
+				"productId"
+			],
+			[
+				"purc",
+				"purchasedProduct"
+			],
+			[
+				"acce",
+				"AccessoriesProducts"
+			],
+			[
+				"Ex",
+				"ExternalProducts"
+			],
+			[
+				"new",
+				"new_array"
+			],
+			[
+				"products",
+				"productsCC"
+			],
+			[
+				"getRede",
+				"getRedemptionDate"
+			],
+			[
+				"array_inte",
+				"array_intersect_key"
+			],
+			[
+				"Id",
+				"IdFilter"
+			],
+			[
+				"produc",
+				"productId"
+			],
+			[
+				"purcha",
+				"purchasedProductModel"
+			],
+			[
+				"purchase",
+				"purchasedProductModel"
+			],
+			[
+				"purcah",
+				"purchasedProducts"
+			],
+			[
+				"invo",
+				"invoiceData"
+			],
+			[
+				"histo",
+				"historyFilters"
+			],
+			[
+				"issues",
+				"issuesDetails"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"stationI",
+				"stationIssuesList"
+			],
+			[
+				"station",
+				"stationIssuesList"
+			],
+			[
+				"map",
+				"maptoolURL"
+			],
+			[
+				"Station",
+				"StationProblem"
+			],
+			[
+				"Comment",
+				"CommentFormHandler"
+			],
+			[
+				"error",
+				"errorManager"
+			],
+			[
+				"request",
+				"requestWs"
+			],
+			[
+				"cust",
+				"custId"
+			],
+			[
+				"clientT",
+				"clientType"
+			],
+			[
+				"acces",
+				"accesMode"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"payme",
+				"paymentFinalization"
+			],
+			[
+				"payment",
+				"paymentRawData"
+			],
+			[
+				"birt",
+				"setBirthday"
+			],
+			[
+				"inpu",
+				"inputData"
+			],
+			[
+				"WS",
+				"WSCustomer"
+			],
+			[
+				"customer",
+				"customerNew"
+			],
+			[
+				"tick",
+				"ticketMessage"
+			],
+			[
+				"ws",
+				"WSSubscriptions"
+			],
+			[
+				"subsc",
+				"subscriptionsSelect"
+			],
+			[
+				"subs",
+				"subscriptionTypeIdsAndNames"
+			],
+			[
+				"lo",
+				"loggedUser"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"su",
+				"Subscription"
+			],
+			[
+				"set",
+				"setlocale"
+			],
+			[
+				"Subscrit",
+				"subscriptionTerms"
+			],
+			[
+				"subcription",
+				"subscriptionArray"
+			],
+			[
+				"terms",
+				"termsVersion"
+			],
+			[
+				"custom",
+				"customPassLength"
+			],
+			[
+				"sub",
+				"Subscription"
+			],
+			[
+				"unreco",
+				"unrecognizedBike"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"customer_p",
+				"customer_password"
+			],
+			[
+				"id",
+				"id_number"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"user",
+				"usernameValidation"
+			],
+			[
+				"UserNa",
+				"usernameValidation"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"php",
+				"phpcredits"
+			],
+			[
+				"logs",
+				"logs"
+			],
+			[
+				"Custom",
+				"CustomerController"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/HelloWorld/actions/Actions.jsx",
+			"settings":
+			{
+				"buffer_size": 416,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/AppBundle/Controller/AppController.php",
+			"settings":
+			{
+				"buffer_size": 3580,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/HelloWorld/reducers/usuariReducer.jsx",
+			"settings":
+			{
+				"buffer_size": 536,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/HelloWorld/containers/Usuari.jsx",
+			"settings":
+			{
+				"buffer_size": 2059,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/HelloWorld/store/UsuariStore.jsx",
+			"settings":
+			{
+				"buffer_size": 1469,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/AppBundle/Resources/Data/usuari.yml",
+			"settings":
+			{
+				"buffer_size": 121,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "{\n  \"name\": \"symfony-react-sandbox\",\n  \"version\": \"0.1.0\",\n  \"description\": \"Symfony React Sandbox\",\n  \"main\": \"index.js\",\n  \"directories\": {\n    \"test\": \"tests\"\n  },\n  \"scripts\": {\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n  },\n  \"keywords\": [\n    \"symfony\",\n    \"react\",\n    \"jsx\",\n    \"reactjs\",\n    \"server-side\",\n    \"rendering\",\n    \"isomorphic\"\n  ],\n  \"author\": {\n    \"name\": \"Nacho Martín\",\n    \"email\": \"nacho@limenius.com\",\n    \"url\": \"http://nacho-martin.com/\"\n  },\n  \"license\": \"MIT\",\n  \"dependencies\": {\n    \"babel\": \"^6.5.2\",\n    \"history\": \"^3.0.0\",\n    \"immutable\": \"^3.7.6\",\n    \"jquery\": \"^3.1.0\",\n    \"jquery-ujs\": \"^1.1.0-1\",\n    \"lodash\": \"^4.14.1\",\n    \"react\": \"^15.0.0\",\n    \"react-bootstrap\": \"^0.30.1\",\n    \"react-dom\": \"^15.3.0\",\n    \"react-on-rails\": \"6.0.5\",\n    \"react-redux\": \"^4.4.5\",\n    \"react-router\": \"^2.0.0\",\n    \"react-router-redux\": \"^4.0.0\",\n    \"redux\": \"^3.3.1\",\n    \"redux-logger\": \"^2.6.1\",\n    \"redux-thunk\": \"^2.0.1\",\n    \"webpack\": \"^1.12.8\"\n  },\n  \"devDependencies\": {\n    \"babel-cli\": \"^6.6.5\",\n    \"babel-core\": \"^6.7.4\",\n    \"babel-eslint\": \"^6.1.2\",\n    \"babel-loader\": \"^6.2.4\",\n    \"babel-plugin-react-transform\": \"^2.0.2\",\n    \"babel-plugin-syntax-decorators\": \"^6.3.13\",\n    \"babel-plugin-transform-runtime\": \"^6.6.0\",\n    \"babel-polyfill\": \"^6.7.4\",\n    \"babel-preset-es2015\": \"^6.3.13\",\n    \"babel-preset-react\": \"^6.3.13\",\n    \"babel-preset-stage-0\": \"^6.3.13\",\n    \"copy-webpack-plugin\": \"^3.0.1\",\n    \"css-loader\": \"^0.23.0\",\n    \"es5-shim\": \"^4.4.1\",\n    \"eslint\": \"^3.2.2\",\n    \"eslint-config-airbnb\": \"^10.0.0\",\n    \"eslint-plugin-import\": \"^1.12.0\",\n    \"eslint-plugin-jsx-a11y\": \"^2.0.1\",\n    \"eslint-plugin-react\": \"^6.0.0\",\n    \"expose-loader\": \"^0.7.1\",\n    \"extract-text-webpack-plugin\": \"^1.0.1\",\n    \"file-loader\": \"^0.9.0\",\n    \"imports-loader\": \"^0.6.5\",\n    \"loader-utils\": \"^0.2.15\",\n    \"react-transform-hmr\": \"^1.0.1\",\n    \"style-loader\": \"^0.13.0\",\n    \"url-loader\": \"^0.5.6\",\n    \"webpack-dev-server\": \"^1.12.1\"\n  }\n}\n",
+			"file": "package.json",
+			"file_size": 2115,
+			"file_write_time": 131233344616922599,
+			"settings":
+			{
+				"buffer_size": 2015,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "(function($, undefined) {\n\n/**\n * Unobtrusive scripting adapter for jQuery\n * https://github.com/rails/jquery-ujs\n *\n * Requires jQuery 1.8.0 or later.\n *\n * Released under the MIT license\n *\n */\n\n  // Cut down on the number of issues from people inadvertently including jquery_ujs twice\n  // by detecting and raising an error when it happens.\n  'use strict';\n\n  if ( $.rails !== undefined ) {\n    $.error('jquery-ujs has already been loaded!');\n  }\n\n  // Shorthand to make it a little easier to call public rails functions from within rails.js\n  var rails;\n  var $document = $(document);\n\n  $.rails = rails = {\n    // Link elements bound by jquery-ujs\n    linkClickSelector: 'a[data-confirm], a[data-method], a[data-remote]:not([disabled]), a[data-disable-with], a[data-disable]',\n\n    // Button elements bound by jquery-ujs\n    buttonClickSelector: 'button[data-remote]:not([form]):not(form button), button[data-confirm]:not([form]):not(form button)',\n\n    // Select elements bound by jquery-ujs\n    inputChangeSelector: 'select[data-remote], input[data-remote], textarea[data-remote]',\n\n    // Form elements bound by jquery-ujs\n    formSubmitSelector: 'form',\n\n    // Form input elements bound by jquery-ujs\n    formInputClickSelector: 'form input[type=submit], form input[type=image], form button[type=submit], form button:not([type]), input[type=submit][form], input[type=image][form], button[type=submit][form], button[form]:not([type])',\n\n    // Form input elements disabled during form submission\n    disableSelector: 'input[data-disable-with]:enabled, button[data-disable-with]:enabled, textarea[data-disable-with]:enabled, input[data-disable]:enabled, button[data-disable]:enabled, textarea[data-disable]:enabled',\n\n    // Form input elements re-enabled after form submission\n    enableSelector: 'input[data-disable-with]:disabled, button[data-disable-with]:disabled, textarea[data-disable-with]:disabled, input[data-disable]:disabled, button[data-disable]:disabled, textarea[data-disable]:disabled',\n\n    // Form required input elements\n    requiredInputSelector: 'input[name][required]:not([disabled]), textarea[name][required]:not([disabled])',\n\n    // Form file input elements\n    fileInputSelector: 'input[name][type=file]:not([disabled])',\n\n    // Link onClick disable selector with possible reenable after remote submission\n    linkDisableSelector: 'a[data-disable-with], a[data-disable]',\n\n    // Button onClick disable selector with possible reenable after remote submission\n    buttonDisableSelector: 'button[data-remote][data-disable-with], button[data-remote][data-disable]',\n\n    // Up-to-date Cross-Site Request Forgery token\n    csrfToken: function() {\n     return $('meta[name=csrf-token]').attr('content');\n    },\n\n    // URL param that must contain the CSRF token\n    csrfParam: function() {\n     return $('meta[name=csrf-param]').attr('content');\n    },\n\n    // Make sure that every Ajax request sends the CSRF token\n    CSRFProtection: function(xhr) {\n      var token = rails.csrfToken();\n      if (token) xhr.setRequestHeader('X-CSRF-Token', token);\n    },\n\n    // Make sure that all forms have actual up-to-date tokens (cached forms contain old ones)\n    refreshCSRFTokens: function(){\n      $('form input[name=\"' + rails.csrfParam() + '\"]').val(rails.csrfToken());\n    },\n\n    // Triggers an event on an element and returns false if the event result is false\n    fire: function(obj, name, data) {\n      var event = $.Event(name);\n      obj.trigger(event, data);\n      return event.result !== false;\n    },\n\n    // Default confirm dialog, may be overridden with custom confirm dialog in $.rails.confirm\n    confirm: function(message) {\n      return confirm(message);\n    },\n\n    // Default ajax function, may be overridden with custom function in $.rails.ajax\n    ajax: function(options) {\n      return $.ajax(options);\n    },\n\n    // Default way to get an element's href. May be overridden at $.rails.href.\n    href: function(element) {\n      return element[0].href;\n    },\n\n    // Checks \"data-remote\" if true to handle the request through a XHR request.\n    isRemote: function(element) {\n      return element.data('remote') !== undefined && element.data('remote') !== false;\n    },\n\n    // Submits \"remote\" forms and links with ajax\n    handleRemote: function(element) {\n      var method, url, data, withCredentials, dataType, options;\n\n      if (rails.fire(element, 'ajax:before')) {\n        withCredentials = element.data('with-credentials') || null;\n        dataType = element.data('type') || ($.ajaxSettings && $.ajaxSettings.dataType);\n\n        if (element.is('form')) {\n          method = element.data('ujs:submit-button-formmethod') || element.attr('method');\n          url = element.data('ujs:submit-button-formaction') || element.attr('action');\n          data = $(element[0]).serializeArray();\n          // memoized value from clicked submit button\n          var button = element.data('ujs:submit-button');\n          if (button) {\n            data.push(button);\n            element.data('ujs:submit-button', null);\n          }\n          element.data('ujs:submit-button-formmethod', null);\n          element.data('ujs:submit-button-formaction', null);\n        } else if (element.is(rails.inputChangeSelector)) {\n          method = element.data('method');\n          url = element.data('url');\n          data = element.serialize();\n          if (element.data('params')) data = data + '&' + element.data('params');\n        } else if (element.is(rails.buttonClickSelector)) {\n          method = element.data('method') || 'get';\n          url = element.data('url');\n          data = element.serialize();\n          if (element.data('params')) data = data + '&' + element.data('params');\n        } else {\n          method = element.data('method');\n          url = rails.href(element);\n          data = element.data('params') || null;\n        }\n\n        options = {\n          type: method || 'GET', data: data, dataType: dataType,\n          // stopping the \"ajax:beforeSend\" event will cancel the ajax request\n          beforeSend: function(xhr, settings) {\n            if (settings.dataType === undefined) {\n              xhr.setRequestHeader('accept', '*/*;q=0.5, ' + settings.accepts.script);\n            }\n            if (rails.fire(element, 'ajax:beforeSend', [xhr, settings])) {\n              element.trigger('ajax:send', xhr);\n            } else {\n              return false;\n            }\n          },\n          success: function(data, status, xhr) {\n            element.trigger('ajax:success', [data, status, xhr]);\n          },\n          complete: function(xhr, status) {\n            element.trigger('ajax:complete', [xhr, status]);\n          },\n          error: function(xhr, status, error) {\n            element.trigger('ajax:error', [xhr, status, error]);\n          },\n          crossDomain: rails.isCrossDomain(url)\n        };\n\n        // There is no withCredentials for IE6-8 when\n        // \"Enable native XMLHTTP support\" is disabled\n        if (withCredentials) {\n          options.xhrFields = {\n            withCredentials: withCredentials\n          };\n        }\n\n        // Only pass url to `ajax` options if not blank\n        if (url) { options.url = url; }\n\n        return rails.ajax(options);\n      } else {\n        return false;\n      }\n    },\n\n    // Determines if the request is a cross domain request.\n    isCrossDomain: function(url) {\n      var originAnchor = document.createElement('a');\n      originAnchor.href = location.href;\n      var urlAnchor = document.createElement('a');\n\n      try {\n        urlAnchor.href = url;\n        // This is a workaround to a IE bug.\n        urlAnchor.href = urlAnchor.href;\n\n        // If URL protocol is false or is a string containing a single colon\n        // *and* host are false, assume it is not a cross-domain request\n        // (should only be the case for IE7 and IE compatibility mode).\n        // Otherwise, evaluate protocol and host of the URL against the origin\n        // protocol and host.\n        return !(((!urlAnchor.protocol || urlAnchor.protocol === ':') && !urlAnchor.host) ||\n          (originAnchor.protocol + '//' + originAnchor.host ===\n            urlAnchor.protocol + '//' + urlAnchor.host));\n      } catch (e) {\n        // If there is an error parsing the URL, assume it is crossDomain.\n        return true;\n      }\n    },\n\n    // Handles \"data-method\" on links such as:\n    // <a href=\"/users/5\" data-method=\"delete\" rel=\"nofollow\" data-confirm=\"Are you sure?\">Delete</a>\n    handleMethod: function(link) {\n      var href = rails.href(link),\n        method = link.data('method'),\n        target = link.attr('target'),\n        csrfToken = rails.csrfToken(),\n        csrfParam = rails.csrfParam(),\n        form = $('<form method=\"post\" action=\"' + href + '\"></form>'),\n        metadataInput = '<input name=\"_method\" value=\"' + method + '\" type=\"hidden\" />';\n\n      if (csrfParam !== undefined && csrfToken !== undefined && !rails.isCrossDomain(href)) {\n        metadataInput += '<input name=\"' + csrfParam + '\" value=\"' + csrfToken + '\" type=\"hidden\" />';\n      }\n\n      if (target) { form.attr('target', target); }\n\n      form.hide().append(metadataInput).appendTo('body');\n      form.submit();\n    },\n\n    // Helper function that returns form elements that match the specified CSS selector\n    // If form is actually a \"form\" element this will return associated elements outside the from that have\n    // the html form attribute set\n    formElements: function(form, selector) {\n      return form.is('form') ? $(form[0].elements).filter(selector) : form.find(selector);\n    },\n\n    /* Disables form elements:\n      - Caches element value in 'ujs:enable-with' data store\n      - Replaces element text with value of 'data-disable-with' attribute\n      - Sets disabled property to true\n    */\n    disableFormElements: function(form) {\n      rails.formElements(form, rails.disableSelector).each(function() {\n        rails.disableFormElement($(this));\n      });\n    },\n\n    disableFormElement: function(element) {\n      var method, replacement;\n\n      method = element.is('button') ? 'html' : 'val';\n      replacement = element.data('disable-with');\n\n      if (replacement !== undefined) {\n        element.data('ujs:enable-with', element[method]());\n        element[method](replacement);\n      }\n\n      element.prop('disabled', true);\n      element.data('ujs:disabled', true);\n    },\n\n    /* Re-enables disabled form elements:\n      - Replaces element text with cached value from 'ujs:enable-with' data store (created in `disableFormElements`)\n      - Sets disabled property to false\n    */\n    enableFormElements: function(form) {\n      rails.formElements(form, rails.enableSelector).each(function() {\n        rails.enableFormElement($(this));\n      });\n    },\n\n    enableFormElement: function(element) {\n      var method = element.is('button') ? 'html' : 'val';\n      if (element.data('ujs:enable-with') !== undefined) {\n        element[method](element.data('ujs:enable-with'));\n        element.removeData('ujs:enable-with'); // clean up cache\n      }\n      element.prop('disabled', false);\n      element.removeData('ujs:disabled');\n    },\n\n   /* For 'data-confirm' attribute:\n      - Fires `confirm` event\n      - Shows the confirmation dialog\n      - Fires the `confirm:complete` event\n\n      Returns `true` if no function stops the chain and user chose yes; `false` otherwise.\n      Attaching a handler to the element's `confirm` event that returns a `falsy` value cancels the confirmation dialog.\n      Attaching a handler to the element's `confirm:complete` event that returns a `falsy` value makes this function\n      return false. The `confirm:complete` event is fired whether or not the user answered true or false to the dialog.\n   */\n    allowAction: function(element) {\n      var message = element.data('confirm'),\n          answer = false, callback;\n      if (!message) { return true; }\n\n      if (rails.fire(element, 'confirm')) {\n        try {\n          answer = rails.confirm(message);\n        } catch (e) {\n          (console.error || console.log).call(console, e.stack || e);\n        }\n        callback = rails.fire(element, 'confirm:complete', [answer]);\n      }\n      return answer && callback;\n    },\n\n    // Helper function which checks for blank inputs in a form that match the specified CSS selector\n    blankInputs: function(form, specifiedSelector, nonBlank) {\n      var foundInputs = $(),\n        input,\n        valueToCheck,\n        radiosForNameWithNoneSelected,\n        radioName,\n        selector = specifiedSelector || 'input,textarea',\n        requiredInputs = form.find(selector),\n        checkedRadioButtonNames = {};\n\n      requiredInputs.each(function() {\n        input = $(this);\n        if (input.is('input[type=radio]')) {\n\n          // Don't count unchecked required radio as blank if other radio with same name is checked,\n          // regardless of whether same-name radio input has required attribute or not. The spec\n          // states https://www.w3.org/TR/html5/forms.html#the-required-attribute\n          radioName = input.attr('name');\n\n          // Skip if we've already seen the radio with this name.\n          if (!checkedRadioButtonNames[radioName]) {\n\n            // If none checked\n            if (form.find('input[type=radio]:checked[name=\"' + radioName + '\"]').length === 0) {\n              radiosForNameWithNoneSelected = form.find(\n                'input[type=radio][name=\"' + radioName + '\"]');\n              foundInputs = foundInputs.add(radiosForNameWithNoneSelected);\n            }\n\n            // We only need to check each name once.\n            checkedRadioButtonNames[radioName] = radioName;\n          }\n        } else {\n          valueToCheck = input.is('input[type=checkbox],input[type=radio]') ? input.is(':checked') : !!input.val();\n          if (valueToCheck === nonBlank) {\n            foundInputs = foundInputs.add(input);\n          }\n        }\n      });\n      return foundInputs.length ? foundInputs : false;\n    },\n\n    // Helper function which checks for non-blank inputs in a form that match the specified CSS selector\n    nonBlankInputs: function(form, specifiedSelector) {\n      return rails.blankInputs(form, specifiedSelector, true); // true specifies nonBlank\n    },\n\n    // Helper function, needed to provide consistent behavior in IE\n    stopEverything: function(e) {\n      $(e.target).trigger('ujs:everythingStopped');\n      e.stopImmediatePropagation();\n      return false;\n    },\n\n    //  Replace element's html with the 'data-disable-with' after storing original html\n    //  and prevent clicking on it\n    disableElement: function(element) {\n      var replacement = element.data('disable-with');\n\n      if (replacement !== undefined) {\n        element.data('ujs:enable-with', element.html()); // store enabled state\n        element.html(replacement);\n      }\n\n      element.bind('click.railsDisable', function(e) { // prevent further clicking\n        return rails.stopEverything(e);\n      });\n      element.data('ujs:disabled', true);\n    },\n\n    // Restore element to its original state which was disabled by 'disableElement' above\n    enableElement: function(element) {\n      if (element.data('ujs:enable-with') !== undefined) {\n        element.html(element.data('ujs:enable-with')); // set to old enabled state\n        element.removeData('ujs:enable-with'); // clean up cache\n      }\n      element.unbind('click.railsDisable'); // enable element\n      element.removeData('ujs:disabled');\n    }\n  };\n\n  if (rails.fire($document, 'rails:attachBindings')) {\n\n    $.ajaxPrefilter(function(options, originalOptions, xhr){ if ( !options.crossDomain ) { rails.CSRFProtection(xhr); }});\n\n    // This event works the same as the load event, except that it fires every\n    // time the page is loaded.\n    //\n    // See https://github.com/rails/jquery-ujs/issues/357\n    // See https://developer.mozilla.org/en-US/docs/Using_Firefox_1.5_caching\n    $(window).on('pageshow.rails', function () {\n      $($.rails.enableSelector).each(function () {\n        var element = $(this);\n\n        if (element.data('ujs:disabled')) {\n          $.rails.enableFormElement(element);\n        }\n      });\n\n      $($.rails.linkDisableSelector).each(function () {\n        var element = $(this);\n\n        if (element.data('ujs:disabled')) {\n          $.rails.enableElement(element);\n        }\n      });\n    });\n\n    $document.on('ajax:complete', rails.linkDisableSelector, function() {\n        rails.enableElement($(this));\n    });\n\n    $document.on('ajax:complete', rails.buttonDisableSelector, function() {\n        rails.enableFormElement($(this));\n    });\n\n    $document.on('click.rails', rails.linkClickSelector, function(e) {\n      var link = $(this), method = link.data('method'), data = link.data('params'), metaClick = e.metaKey || e.ctrlKey;\n      if (!rails.allowAction(link)) return rails.stopEverything(e);\n\n      if (!metaClick && link.is(rails.linkDisableSelector)) rails.disableElement(link);\n\n      if (rails.isRemote(link)) {\n        if (metaClick && (!method || method === 'GET') && !data) { return true; }\n\n        var handleRemote = rails.handleRemote(link);\n        // Response from rails.handleRemote() will either be false or a deferred object promise.\n        if (handleRemote === false) {\n          rails.enableElement(link);\n        } else {\n          handleRemote.fail( function() { rails.enableElement(link); } );\n        }\n        return false;\n\n      } else if (method) {\n        rails.handleMethod(link);\n        return false;\n      }\n    });\n\n    $document.on('click.rails', rails.buttonClickSelector, function(e) {\n      var button = $(this);\n\n      if (!rails.allowAction(button) || !rails.isRemote(button)) return rails.stopEverything(e);\n\n      if (button.is(rails.buttonDisableSelector)) rails.disableFormElement(button);\n\n      var handleRemote = rails.handleRemote(button);\n      // Response from rails.handleRemote() will either be false or a deferred object promise.\n      if (handleRemote === false) {\n        rails.enableFormElement(button);\n      } else {\n        handleRemote.fail( function() { rails.enableFormElement(button); } );\n      }\n      return false;\n    });\n\n    $document.on('change.rails', rails.inputChangeSelector, function(e) {\n      var link = $(this);\n      if (!rails.allowAction(link) || !rails.isRemote(link)) return rails.stopEverything(e);\n\n      rails.handleRemote(link);\n      return false;\n    });\n\n    $document.on('submit.rails', rails.formSubmitSelector, function(e) {\n      var form = $(this),\n        remote = rails.isRemote(form),\n        blankRequiredInputs,\n        nonBlankFileInputs;\n\n      if (!rails.allowAction(form)) return rails.stopEverything(e);\n\n      // Skip other logic when required values are missing or file upload is present\n      if (form.attr('novalidate') === undefined) {\n        if (form.data('ujs:formnovalidate-button') === undefined) {\n          blankRequiredInputs = rails.blankInputs(form, rails.requiredInputSelector, false);\n          if (blankRequiredInputs && rails.fire(form, 'ajax:aborted:required', [blankRequiredInputs])) {\n            return rails.stopEverything(e);\n          }\n        } else {\n          // Clear the formnovalidate in case the next button click is not on a formnovalidate button\n          // Not strictly necessary to do here, since it is also reset on each button click, but just to be certain\n          form.data('ujs:formnovalidate-button', undefined);\n        }\n      }\n\n      if (remote) {\n        nonBlankFileInputs = rails.nonBlankInputs(form, rails.fileInputSelector);\n        if (nonBlankFileInputs) {\n          // Slight timeout so that the submit button gets properly serialized\n          // (make it easy for event handler to serialize form without disabled values)\n          setTimeout(function(){ rails.disableFormElements(form); }, 13);\n          var aborted = rails.fire(form, 'ajax:aborted:file', [nonBlankFileInputs]);\n\n          // Re-enable form elements if event bindings return false (canceling normal form submission)\n          if (!aborted) { setTimeout(function(){ rails.enableFormElements(form); }, 13); }\n\n          return aborted;\n        }\n\n        rails.handleRemote(form);\n        return false;\n\n      } else {\n        // Slight timeout so that the submit button gets properly serialized\n        setTimeout(function(){ rails.disableFormElements(form); }, 13);\n      }\n    });\n\n    $document.on('click.rails', rails.formInputClickSelector, function(event) {\n      var button = $(this);\n\n      if (!rails.allowAction(button)) return rails.stopEverything(event);\n\n      // Register the pressed submit button\n      var name = button.attr('name'),\n        data = name ? {name:name, value:button.val()} : null;\n\n      var form = button.closest('form');\n      if (form.length === 0) {\n        form = $('#' + button.attr('form'));\n      }\n      form.data('ujs:submit-button', data);\n\n      // Save attributes from button\n      form.data('ujs:formnovalidate-button', button.attr('formnovalidate'));\n      form.data('ujs:submit-button-formaction', button.attr('formaction'));\n      form.data('ujs:submit-button-formmethod', button.attr('formmethod'));\n    });\n\n    $document.on('ajax:send.rails', rails.formSubmitSelector, function(event) {\n      if (this === event.target) rails.disableFormElements($(this));\n    });\n\n    $document.on('ajax:complete.rails', rails.formSubmitSelector, function(event) {\n      if (this === event.target) rails.enableFormElements($(this));\n    });\n\n    $(function(){\n      rails.refreshCSRFTokens();\n    });\n  }\n\n})( jQuery );\n",
+			"file": "node_modules/jquery-ujs/src/rails.js",
+			"file_size": 21600,
+			"file_write_time": 131230042251318624,
+			"settings":
+			{
+				"buffer_size": 21600,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n    \"name\": \"limenius/symfony-react-sandbox\",\n    \"license\": \"MIT\",\n    \"type\": \"project\",\n    \"authors\": [\n        {\n            \"name\": \"Nacho Martín\",\n            \"email\": \"nacho@limenius.com\",\n            \"homepage\": \"http://nacho-martin.com\"\n        }\n    ],\n    \"description\": \"Symfony React Sandbox, where to explore the integration with React and isomorphic or universal react rendering in Symfony and have profit with Webpack\",\n    \"autoload\": {\n        \"psr-4\": { \"\": \"src/\" },\n        \"classmap\": [ \"app/AppKernel.php\", \"app/AppCache.php\" ]\n    },\n    \"autoload-dev\": {\n        \"psr-4\": { \"Tests\\\\\": \"tests/\" }\n    },\n    \"require\": {\n       \"php\": \">=5.5.9\",\n       \"symfony/symfony\": \"3.1.*\",\n       \"doctrine/orm\": \"^2.5\",\n       \"doctrine/doctrine-bundle\": \"^1.6\",\n       \"doctrine/doctrine-cache-bundle\": \"^1.2\",\n       \"symfony/swiftmailer-bundle\": \"^2.3\",\n       \"symfony/monolog-bundle\": \"^2.8\",\n       \"symfony/polyfill-apcu\": \"^1.0\",\n       \"sensio/distribution-bundle\": \"^5.0\",\n       \"sensio/framework-extra-bundle\": \"^3.0.2\",\n        \"incenteev/composer-parameter-handler\": \"^2.0\",\n        \"limenius/react-bundle\": \"^0.9\",\n        \"nelmio/api-doc-bundle\": \"^2.13\",\n        \"friendsofsymfony/rest-bundle\": \"^2.1\"\n    },\n    \"require-dev\": {\n        \"sensio/generator-bundle\": \"^3.0\",\n        \"symfony/phpunit-bridge\": \"^3.0\"\n    },\n    \"scripts\": {\n        \"post-install-cmd\": [\n            \"Incenteev\\\\ParameterHandler\\\\ScriptHandler::buildParameters\",\n            \"Sensio\\\\Bundle\\\\DistributionBundle\\\\Composer\\\\ScriptHandler::buildBootstrap\",\n            \"Sensio\\\\Bundle\\\\DistributionBundle\\\\Composer\\\\ScriptHandler::clearCache\",\n            \"Sensio\\\\Bundle\\\\DistributionBundle\\\\Composer\\\\ScriptHandler::installAssets\",\n            \"Sensio\\\\Bundle\\\\DistributionBundle\\\\Composer\\\\ScriptHandler::installRequirementsFile\",\n            \"Sensio\\\\Bundle\\\\DistributionBundle\\\\Composer\\\\ScriptHandler::prepareDeploymentTarget\"\n        ],\n        \"post-update-cmd\": [\n            \"Incenteev\\\\ParameterHandler\\\\ScriptHandler::buildParameters\",\n            \"Sensio\\\\Bundle\\\\DistributionBundle\\\\Composer\\\\ScriptHandler::buildBootstrap\",\n            \"Sensio\\\\Bundle\\\\DistributionBundle\\\\Composer\\\\ScriptHandler::clearCache\",\n            \"Sensio\\\\Bundle\\\\DistributionBundle\\\\Composer\\\\ScriptHandler::installAssets\",\n            \"Sensio\\\\Bundle\\\\DistributionBundle\\\\Composer\\\\ScriptHandler::installRequirementsFile\",\n            \"Sensio\\\\Bundle\\\\DistributionBundle\\\\Composer\\\\ScriptHandler::prepareDeploymentTarget\"\n        ]\n    },\n    \"config\": {\n        \"platform\": {\n            \"php\": \"5.5.9\"\n        }\n    },\n    \"extra\": {\n        \"symfony-app-dir\": \"app\",\n        \"symfony-bin-dir\": \"bin\",\n        \"symfony-var-dir\": \"var\",\n        \"symfony-web-dir\": \"web\",\n        \"symfony-tests-dir\": \"tests\",\n        \"symfony-assets-install\": \"relative\",\n        \"incenteev-parameters\": {\n            \"file\": \"app/config/parameters.yml\"\n        },\n        \"branch-alias\": {\n            \"dev-master\": \"3.1-dev\"\n        }\n    },\n    \"minimum-stability\": \"stable\"\n}\n",
+			"file": "composer.json",
+			"file_size": 3159,
+			"file_write_time": 131232751417219795,
+			"settings":
+			{
+				"buffer_size": 3070,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 264.0,
+		"history":
+		[
+			"echo 'hola'",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"pyton",
+			"cd ",
+			"l",
+			"ll",
+			"ls",
+			"ftp",
+			"git",
+			"cd ..",
+			"ls",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/app",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/app/config",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/client/HelloWorld",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/client/HelloWorld/actions",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/client/HelloWorld/components",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/client/HelloWorld/constants",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/client/HelloWorld/containers",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/client/HelloWorld/reducers",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/client/HelloWorld/startup",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/client/HelloWorld/store",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/node_modules",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/src",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/src/AppBundle",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/src/AppBundle/Controller",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/src/AppBundle/Model",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/src/AppBundle/Resources",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/src/AppBundle/Resources/config",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/src/AppBundle/Resources/Data"
+	],
+	"file_history":
+	[
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/src/AppBundle/Model/Usuari.php",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/src/AppBundle/Resources/Data/usuari.yml",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/app/AppKernel.php",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/composer.json",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/app/config/config.yml",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/app/config/routing.yml",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/src/AppBundle/UsuariManager.php",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/src/AppBundle/Controller/AppController.php",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/README.md",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/client/Recipes-redux/actions/recipesActions.jsx",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/app/config/routing.yml",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/app/config/config.yml",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/app/AppKernel.php",
+		"/C/Users/Etor/Desktop/logs_10_velo/ws_reports_import_ws_data.inc",
+		"/C/Users/Etor/AppData/Local/Temp/fz3temp-2/summaryLog2sql.php",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/.git/config",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/README.md",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/app/Resources/views/base.html.twig",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/app/Resources/views/recipe/recipe.html.twig",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/webpack.config.serverside.js",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/app/Resources/views/recipe/home.html.twig",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/client/Recipes-redux/components/RecipeList.jsx",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/client/Recipes-redux/reducers/index.jsx",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/app/Resources/webpack/server-bundle.js",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/node_modules/css-loader/node_modules/cssnano/node_modules/postcss-minify-selectors/node_modules/postcss-selector-parser/dist/index.js",
+		"/C/Users/Etor/Documents/proves_appsistencia/Vagrantfile",
+		"/C/Users/Etor/Documents/proves_appsistencia/sftp-config.json",
+		"/C/Users/Etor/Documents/proves_appsistencia/README.md",
+		"/C/Users/Etor/Documents/proves_appsistencia/hola.txt",
+		"/C/Users/Etor/Documents/proves_appsistencia/provision.sh",
+		"/C/Users/Etor/Documents/proves_appsistencia/keys/id_rsa",
+		"/C/Users/Etor/Documents/proves_appsistencia/keys/id_rsa.ppk",
+		"/C/Users/Etor/Documents/proves_appsistencia/vagrant_log/0.txt",
+		"/C/Users/Etor/Desktop/exemple_react.html",
+		"/C/Users/Etor/Desktop/logs_malmo/PRO_MMX_xls_wslog.log.5",
+		"/C/Users/Etor/Downloads/v8js-1.3.3/README.md",
+		"/C/Users/Etor/Desktop/logs_malmo/log.txt",
+		"/C/xampp/htdocs/proves/proves.php",
+		"/C/xampp/php/php.ini",
+		"/C/Users/Etor/Desktop/logs_malmo/crono_59743.log",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Handler/Admin/CancelPurchasedProductFormHandler.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Controller/API/Admin/AdminShopController.php",
+		"/C/Users/Etor/Desktop/vagrant-lamp-master/provision-sql/appsistencia_db.sql",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Entity/Player.php",
+		"/C/Users/Etor/Desktop/vagrant-lamp-master/provision.sh",
+		"/C/Users/Etor/Desktop/vagrant-lamp-master/src/index.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Library/ChallengeProgressPointCalculator.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Model/PurchasedProductModel.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Handler/PlayerFormHandler.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Type/Admin/CancelPurchasedProductFormType.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Type/Admin/PlayerFormType.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Model/Admin/CancelPurchasedProductModel.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Model/Admin/PlayerAddPointsModel.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Handler/Admin/PlayerFormHandler.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Controller/API/Admin/AdminPlayerController.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Repository/PlayerRepository.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Resources/config/services.yml",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Handler/Admin/ProductFormHandler.php",
+		"/C/Users/Etor/Documents/cc-gamification/scripts/gamification_cancelation.sql",
+		"/C/Users/Etor/Desktop/vagrant-lamp-master/provision-sql/01_Example.sql",
+		"/C/Users/Etor/Desktop/check_ws_times.php",
+		"/C/Users/Etor/Desktop/ws_calls_duration_BCN.log",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Entity/TransactionType.php",
+		"/C/Users/Etor/Documents/cc-gamification/Vagrantfile",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Entity/PurchasedProduct.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Model/PurchasedProductsResponse.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Controller/API/ShopController.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Controller/API/PlayerController.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Model/Admin/AdminChallengeResponse.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Entity/Challenge.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Controller/API/Admin/AdminChallengeController.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Entity/CancelPurchasedProduct.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Handler/Admin/RedeemProductFormHandler.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Model/Admin/ProductModel.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Repository/PurchasedProductRepository.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Repository/TransactionRepository.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Repository/ProductRepository.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Controller/API/Admin/AdminTransactionController.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Entity/Product.php",
+		"/C/Users/Etor/Documents/cc-gamification/app/config/parameters.yml.dist",
+		"/C/Users/Etor/Documents/cc-gamification/app/config/parameters.yml",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Entity/Provider.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Type/Admin/RedeemProductFormType.php",
+		"/C/Users/Etor/Documents/cc-gamification/vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Controller/API/ChallengeController.php",
+		"/C/Users/Etor/Documents/cc-gamification/sftp-config.json",
+		"/C/Users/Etor/Documents/cc-gamification/composer.json",
+		"/C/Users/Etor/Documents/cc-gamification/README.md",
+		"/C/Users/Etor/Documents/shh keys/socis_tresA",
+		"/C/Users/Etor/Documents/shh keys/public",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Resources/config/routing.yml",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Controller/DefaultController.php",
+		"/C/Users/Etor/Documents/cc-gamification/vendor/hautelook/alice-bundle/tests/SymfonyApp/config/routing.yml",
+		"/C/Users/Etor/Documents/restapi/wsgi/mybottleapp.py",
+		"/C/Users/Etor/Documents/restapi/setup.py",
+		"/C/Users/Etor/Documents/restapi/coses.txt",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Handler/Admin/CancelPurchasedProductFromHandler.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Handler/FailedTripFormHandler.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Controller/API/Admin/AdminTripController.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Entity/Transaction.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Repository/ProductTypeRepository.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Type/Admin/CancelProductFormType.php",
+		"/C/Users/Etor/Desktop/guillermos/friends.py",
+		"/C/Users/Etor/Desktop/guillermos/friends.txt",
+		"/C/Users/Etor/Documents/shh keys/nova",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Entity/ProductCategory.php",
+		"/C/Users/Etor/Desktop/phpldap/home.php",
+		"/C/Users/Etor/Desktop/phpldap/login.php",
+		"/C/Users/Etor/Desktop/apunts m6uf4.js",
+		"/C/Users/Etor/Desktop/accessibilitat_ETOR_DIAZ.docx",
+		"/C/Users/Etor/Desktop/usabilitat_ETOR_DIAZ.docx",
+		"/C/Users/Etor/DAW/M9 Disseny d'interfícies Web/UF3/USABILITAT/revisio_heuristica_ETOR_DIAZ.xlsx",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Controller/API/Admin/AdminBaseController.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/CCAppBundle.php",
+		"/C/Users/Etor/Documents/cc-gamification/delete.txt",
+		"/C/Users/Etor/Documents/cc_api/src/CC/InternalAPIBundle/Resources/config/validation.yml",
+		"/C/Users/Etor/Documents/cc_api/src/CC/InternalAPIBundle/Form/Type/PinAssignationFormType.php",
+		"/C/Users/Etor/Documents/cc-vagrant/sftp-config.json",
+		"/C/Users/Etor/Documents/cc-vagrant/www/drupal/sites/malmobybike.se/settings.php",
+		"/C/Users/Etor/Documents/cc-vagrant/www/drupal/sites/default/settings.php",
+		"/C/Users/Etor/Documents/cc-vagrant/www/drupal/sites/malmobybike.se/modules/custom/history_transactions/history_transactions.module",
+		"/C/Users/Etor/Documents/cc-vagrant/install/bootstrap.sh",
+		"/C/Users/Etor/Documents/cc-malmo/sftp-config.json",
+		"/C/Users/Etor/Documents/cc-vagrant/README.md",
+		"/C/Users/Etor/Documents/sublime_projects/cc-malmo.sublime-project",
+		"/C/web_projects/cc-middleware/vendor/basetis/ccws/src/Basetis/CCWS/Model/ServiceResponse.php",
+		"/C/web_projects/cc-middleware/vendor/basetis/ccws/src/Basetis/CCWS/Service/EmployeeService.php",
+		"/C/web_projects/cc-middleware/vendor/basetis/ccws/src/Basetis/CCWS/CCWS.php"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\Etor\\Documents\\cc-outdoor-boilerplate\\client",
+			"<open folders>",
+			"C:/Users/Etor/Documents/cc-gamification/src",
+			"<open folders>",
+			"C:\\Users\\Etor\\Documents\\cc-gamification\\src",
+			"<open folders>",
+			"C:\\Users\\Etor\\Documents\\cc-vagrant\\",
+			"C:\\Users\\Etor\\Documents\\cc-vagrant\\install",
+			"C:\\Users\\Etor\\Documents\\cc-vagrant",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\/*! jQuery v2.1.3 | (c) 2005, 2014 jQuery Foundation, Inc. | jquery.org/license */\n!function(a,b){\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error(\"jQuery requires a window with a document\");return b(a)}:b(a)}(\"undefined\"!=typeof wind$\n},removeData:function(a,b){M.remove(a,b)},_data:function(a,b,c){return L.access(a,b,c)},_removeData:function(a,b){L.remove(a,b)}}),n.fn.extend({data:function(a,b){var c,d,e,f=this[0],g=f&&f.attributes;if(void 0===a){if(this.length&&(e=M$\n},removeAttr:function(a,b){var c,d,e=0,f=b&&b.match(E);if(f&&1===a.nodeType)while(c=f[e++])d=n.propFix[c]||c,n.expr.match.bool.test(c)&&(a[d]=!1),a.removeAttribute(c)},attrHooks:{type:{set:function(a,b){if(!k.radioValue&&\"radio\"===b&&n.$\n\n/*!\n * Bootstrap v3.3.6 (http://getbootstrap.com)\n * Copyright 2011-2015 Twitter, Inc.\n * Licensed under the MIT license\n */\nif(\"undefined\"==typeof jQuery)throw new Error(\"Bootstrap's JavaScript requires jQuery\");+function(a){\"use strict\";var b=a.fn.jquery.split(\" \")[0].split(\".\");if(b[0]<2&&b[1]<9||1==b[0]&&9==b[1]&&b[2]<1||b[0]>2)throw new Error(\"Bootstrap'$\nd.parent(\".dropdown-menu\").length&&(d=d.closest(\"li.dropdown\").addClass(\"active\")),d.trigger(\"activate.bs.scrollspy\")},b.prototype.clear=function(){a(this.selector).parentsUntil(this.options.target,\".active\").removeClass(\"active\")};var $\n\nC:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\/*! jQuery v2.1.3 | (c) 2005, 2014 jQuery Foundation, Inc. | jquery.org/license */\n!function(a,b){\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error(\"jQuery requires a window with a document\");return b(a)}:b(a)}(\"undefined\"!=typeof wind$\n},removeData:function(a,b){M.remove(a,b)},_data:function(a,b,c){return L.access(a,b,c)},_removeData:function(a,b){L.remove(a,b)}}),n.fn.extend({data:function(a,b){var c,d,e,f=this[0],g=f&&f.attributes;if(void 0===a){if(this.length&&(e=M$\n},removeAttr:function(a,b){var c,d,e=0,f=b&&b.match(E);if(f&&1===a.nodeType)while(c=f[e++])d=n.propFix[c]||c,n.expr.match.bool.test(c)&&(a[d]=!1),a.removeAttribute(c)},attrHooks:{type:{set:function(a,b){if(!k.radioValue&&\"radio\"===b&&n.$\n\n/*!\n * Bootstrap v3.3.6 (http://getbootstrap.com)\n * Copyright 2011-2015 Twitter, Inc.\n * Licensed under the MIT license\n */\nif(\"undefined\"==typeof jQuery)throw new Error(\"Bootstrap's JavaScript requires jQuery\");+function(a){\"use strict\";var b=a.fn.jquery.split(\" \")[0].split(\".\");if(b[0]<2&&b[1]<9||1==b[0]&&9==b[1]&&b[2]<1||b[0]>2)throw new Error(\"Bootstrap'$\nd.parent(\".dropdown-menu\").length&&(d=d.closest(\"li.dropdown\").addClass(\"active\")),d.trigger(\"activate.bs.scrollspy\")},b.prototype.clear=function(){a(this.selector).parentsUntil(this.options.target,\".active\").removeClass(\"active\")};var $\n\nC:\\web_projects\\cc-middleware",
+			"C:\\web_projects\\cc-middleware\\/*! jQuery v2.1.3 | (c) 2005, 2014 jQuery Foundation, Inc. | jquery.org/license */\n!function(a,b){\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error(\"jQuery requires a window with a document\");return b(a)}:b(a)}(\"undefined\"!=typeof wind$\n},removeData:function(a,b){M.remove(a,b)},_data:function(a,b,c){return L.access(a,b,c)},_removeData:function(a,b){L.remove(a,b)}}),n.fn.extend({data:function(a,b){var c,d,e,f=this[0],g=f&&f.attributes;if(void 0===a){if(this.length&&(e=M$\n},removeAttr:function(a,b){var c,d,e=0,f=b&&b.match(E);if(f&&1===a.nodeType)while(c=f[e++])d=n.propFix[c]||c,n.expr.match.bool.test(c)&&(a[d]=!1),a.removeAttribute(c)},attrHooks:{type:{set:function(a,b){if(!k.radioValue&&\"radio\"===b&&n.$\n\n/*!\n * Bootstrap v3.3.6 (http://getbootstrap.com)\n * Copyright 2011-2015 Twitter, Inc.\n * Licensed under the MIT license\n */\nif(\"undefined\"==typeof jQuery)throw new Error(\"Bootstrap's JavaScript requires jQuery\");+function(a){\"use strict\";var b=a.fn.jquery.split(\" \")[0].split(\".\");if(b[0]<2&&b[1]<9||1==b[0]&&9==b[1]&&b[2]<1||b[0]>2)throw new Error(\"Bootstrap'$\nd.parent(\".dropdown-menu\").length&&(d=d.closest(\"li.dropdown\").addClass(\"active\")),d.trigger(\"activate.bs.scrollspy\")},b.prototype.clear=function(){a(this.selector).parentsUntil(this.options.target,\".active\").removeClass(\"active\")};var $\n\n<open folders>",
+			"C:\\web_projects\\cc-middleware\\/*! jQuery v2.1.3 | (c) 2005, 2014 jQuery Foundation, Inc. | jquery.org/license */\n!function(a,b){\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error(\"jQuery requires a window with a document\");return b(a)}:b(a)}(\"undefined\"!=typeof wind$\n},removeData:function(a,b){M.remove(a,b)},_data:function(a,b,c){return L.access(a,b,c)},_removeData:function(a,b){L.remove(a,b)}}),n.fn.extend({data:function(a,b){var c,d,e,f=this[0],g=f&&f.attributes;if(void 0===a){if(this.length&&(e=M$\n},removeAttr:function(a,b){var c,d,e=0,f=b&&b.match(E);if(f&&1===a.nodeType)while(c=f[e++])d=n.propFix[c]||c,n.expr.match.bool.test(c)&&(a[d]=!1),a.removeAttribute(c)},attrHooks:{type:{set:function(a,b){if(!k.radioValue&&\"radio\"===b&&n.$\n\n/*!\n * Bootstrap v3.3.6 (http://getbootstrap.com)\n * Copyright 2011-2015 Twitter, Inc.\n * Licensed under the MIT license\n */\nif(\"undefined\"==typeof jQuery)throw new Error(\"Bootstrap's JavaScript requires jQuery\");+function(a){\"use strict\";var b=a.fn.jquery.split(\" \")[0].split(\".\");if(b[0]<2&&b[1]<9||1==b[0]&&9==b[1]&&b[2]<1||b[0]>2)throw new Error(\"Bootstrap'$\nd.parent(\".dropdown-menu\").length&&(d=d.closest(\"li.dropdown\").addClass(\"active\")),d.trigger(\"activate.bs.scrollspy\")},b.prototype.clear=function(){a(this.selector).parentsUntil(this.options.target,\".active\").removeClass(\"active\")};var $\n\n",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\vendor",
+			"C:\\web_projects\\cc-middleware\\web",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\app",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\app",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\app",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\src\\CC\\AppBundle\\Form\\Type",
+			"C:\\web_projects\\cc-middleware",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\vendor\\basetis",
+			"C:\\web_projects\\cc-middleware\\vendor\\",
+			"C:\\web_projects\\cc-middleware\\src\\",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src\\",
+			"C:\\web_projects\\cc-middleware\\src\\CC\\AdminBundle",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\app",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\Users\\Etor\\Documents\\cc-middleware\\",
+			"C:\\Users\\Etor\\Documents\\middleware\\",
+			"C:\\Users\\Etor\\Documents\\middleware\\src\\CC",
+			"C:\\Users\\Etor\\Documents\\middleware\\src\\CC, C:\\Users\\Etor\\Documents\\middleware\\vendor",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC, C:\\Users\\Etor\\Documents\\web\\api_v3\\vendor",
+			"C:\\Users\\Etor\\Documents\\middleware\\",
+			"C:\\Users\\Etor\\Documents\\middleware\\src\\CC",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC\\AdminBundle",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\CC\\AdminBundle",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\CC\\AdminNundle",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC\\AdminBundle",
+			"<open folders>,C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC\\AdminBundle",
+			"<open folders>",
+			"",
+			"*routing.yml",
+			"*routin.php",
+			"*router.php",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC\\APPbundle",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\appbundle",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\vendor\\basetis",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC\\AppBundle",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\vendor\\basetis",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\app\\CC",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\app\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC\\APIBundle\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC\\APIBundle\\Util",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC\\APIBundle\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC\\APIBundle\\Entity",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jquery",
+			"jquery-ujs",
+			"express",
+			"React.",
+			"lodash",
+			"history",
+			"connect",
+			"mapDispatchToProps ",
+			"set",
+			"usuari",
+			"$usuariEntity",
+			"usuariEntityArray",
+			"recipe",
+			"Recipe",
+			"recipe",
+			"\n",
+			"client_side",
+			"mapDispatch",
+			"client_side",
+			"{{ react_component('RecipesApp', {'props': props, 'rendering': 'client_side'}) }}",
+			"client_side",
+			"port",
+			"vagrant",
+			"appsistencia",
+			"forward_agent",
+			"forward_agent ",
+			"forward_agent",
+			"middleware",
+			"59743",
+			"353755",
+			"payment",
+			"finalize_payment",
+			"353754",
+			"16092417412123",
+			"{\"ErrorCode\":\"0\",\"ErrorText\":{},\"ErrorElementField\":{},\"Id\":\"353754\"}",
+			"353754",
+			"16092417434913",
+			"59743",
+			"Total",
+			"points",
+			"cancelpurchased",
+			"processActivatePlayer",
+			"bko_user",
+			"Manually adding points",
+			"SubEndDate",
+			"SubEndDate ",
+			"SubEndDate",
+			"hello world",
+			"player",
+			"git",
+			"cancelPurchasedProduct",
+			"cancelPurchasedProducts",
+			"MANUAL_ADD_TRANSACTION_TYPE_ID",
+			" $transaction = new Transaction();\n                $transaction",
+			"purchasedProductModel",
+			"purchasedProductsResponse",
+			"purchasedProductResponse",
+			"purchasedProduct",
+			"Expose",
+			"* @Type",
+			"/**\n    * @Type",
+			"/**\n    * @Type(\"string\")\n    */",
+			"challengeBasicList",
+			"Admin / Shop",
+			"@Groups({\"shop\"})",
+			"challengeBasicList",
+			"AdminChallengeResponse",
+			"Expose",
+			"profile",
+			"serializerGroups",
+			"View",
+			"purchasedproduct",
+			"purchasedproduc",
+			"view",
+			"groups",
+			"PurchasedProductModel",
+			"new PurchasedProductModel",
+			"purchasedproduct",
+			"scope",
+			",",
+			"purchasedproduct",
+			"purchased",
+			"findTransactionsByPlayer",
+			"playeraddpoints",
+			"reason",
+			"sumPlayerPointsByTypeAndDateRange",
+			"transaction",
+			"Add manually points to a player",
+			"('CCAppBundle:Product')->findTranslated",
+			"findTranslate",
+			"findTranslated",
+			"findByProductAndPlayer",
+			"']",
+			"()",
+			"->",
+			"$this->form->",
+			"cancelpurchased",
+			"CCAppBundle",
+			"post",
+			"@get",
+			"@put",
+			"@post",
+			"@Put",
+			"put",
+			"ParamConverter",
+			"cancelPurchasedProduct",
+			"CancelPurchasedProduct",
+			"CancelPurchasedProductModel",
+			"/**\n     * @Type(\"string\")\n     */",
+			"Redeem a product",
+			"player",
+			"cancelpurchased",
+			"purchasedProductFormData",
+			"CancelPurchasedProductFormType",
+			"handler",
+			"date",
+			"productsaction",
+			"request",
+			"purchasedproducts",
+			"findTranslated",
+			"isCancelable",
+			"iscancelable",
+			"Groups",
+			"purchasedproduct",
+			"findTranslated",
+			"serializerGroups",
+			"groups",
+			"Groups"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\Etor\\Documents\\cc-outdoor-boilerplate"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/HelloWorld/actions/Actions.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/AppBundle/Controller/AppController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3580,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								465,
+								465
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/HelloWorld/reducers/usuariReducer.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								383,
+								412
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/HelloWorld/containers/Usuari.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2059,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1966,
+								1966
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 486.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "client/HelloWorld/store/UsuariStore.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/AppBundle/Resources/Data/usuari.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1846,
+								1846
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "node_modules/jquery-ujs/src/rails.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 21600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 918.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "composer.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3070,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								630,
+								630
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"appcontro",
+				"src\\AppBundle\\Controller\\AppController.php"
+			],
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"appkernel",
+				"app\\AppKernel.php"
+			],
+			[
+				"reci",
+				"client\\Recipes-redux\\components\\RecipeList.jsx"
+			],
+			[
+				"home.",
+				"app\\Resources\\views\\recipe\\home.html.twig"
+			],
+			[
+				"web",
+				"webpack.config.serverside.js"
+			],
+			[
+				"player",
+				"src\\CC\\AppBundle\\Entity\\Player.php"
+			],
+			[
+				"cancel",
+				"src\\CC\\AppBundle\\Form\\Type\\Admin\\CancelPurchasedProductFormType.php"
+			],
+			[
+				"cancelp",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\CancelPurchasedProductFormHandler.php"
+			],
+			[
+				"playerform",
+				"src\\CC\\AppBundle\\Form\\Handler\\PlayerFormHandler.php"
+			],
+			[
+				"addpoin",
+				"src\\CC\\AppBundle\\Form\\Model\\Admin\\PlayerAddPointsModel.php"
+			],
+			[
+				"productformhandl",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\ProductFormHandler.php"
+			],
+			[
+				"productformha",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\ProductFormHandler.php"
+			],
+			[
+				"playerformhan",
+				"src\\CC\\AppBundle\\Form\\Handler\\PlayerFormHandler.php"
+			],
+			[
+				"cancelpurcha",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\CancelPurchasedProductFormHandler.php"
+			],
+			[
+				"vagrant",
+				"Vagrantfile"
+			],
+			[
+				"vagrantfile",
+				"Vagrantfile"
+			],
+			[
+				"cancelpur",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\CancelPurchasedProductFormHandler.php"
+			],
+			[
+				"adminshop",
+				"src\\CC\\AppBundle\\Controller\\API\\Admin\\AdminShopController.php"
+			],
+			[
+				"purchased",
+				"src\\CC\\AppBundle\\Entity\\PurchasedProduct.php"
+			],
+			[
+				"purch",
+				"src\\CC\\AppBundle\\Form\\Model\\PurchasedProductModel.php"
+			],
+			[
+				"shopcont",
+				"src\\CC\\AppBundle\\Controller\\API\\ShopController.php"
+			],
+			[
+				"shopcontrol",
+				"src\\CC\\AppBundle\\Controller\\API\\ShopController.php"
+			],
+			[
+				"purchasedprodcut",
+				"src\\CC\\AppBundle\\Form\\Model\\PurchasedProductModel.php"
+			],
+			[
+				"shopcontro",
+				"src\\CC\\AppBundle\\Controller\\API\\ShopController.php"
+			],
+			[
+				"productmodl",
+				"src\\CC\\AppBundle\\Form\\Model\\Admin\\ProductModel.php"
+			],
+			[
+				"product",
+				"src\\CC\\AppBundle\\Repository\\ProductRepository.php"
+			],
+			[
+				"transactionrepo",
+				"src\\CC\\AppBundle\\Repository\\TransactionRepository.php"
+			],
+			[
+				"playerformhandler",
+				"src\\CC\\AppBundle\\Form\\Handler\\PlayerFormHandler.php"
+			],
+			[
+				"playerformh",
+				"src\\CC\\AppBundle\\Form\\Handler\\PlayerFormHandler.php"
+			],
+			[
+				"parameters",
+				"app\\config\\parameters.yml.dist"
+			],
+			[
+				"param",
+				"app\\config\\parameters.yml"
+			],
+			[
+				"purchasedproduct",
+				"src\\CC\\AppBundle\\Entity\\PurchasedProduct.php"
+			],
+			[
+				"redeem",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\RedeemProductFormHandler.php"
+			],
+			[
+				"controller",
+				"src\\CC\\AppBundle\\Controller\\API\\ShopController.php"
+			],
+			[
+				"provider",
+				"src\\CC\\AppBundle\\Entity\\Provider.php"
+			],
+			[
+				"services",
+				"src\\CC\\AppBundle\\Resources\\config\\services.yml"
+			],
+			[
+				"cancelerform",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\CancelPurchasedProductFormHandler.php"
+			],
+			[
+				"productrepo",
+				"src\\CC\\AppBundle\\Repository\\ProductRepository.php"
+			],
+			[
+				"cancelpurchasedprodu",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\CancelPurchasedProductFormHandler.php"
+			],
+			[
+				"purchasedprodu",
+				"src\\CC\\AppBundle\\Entity\\PurchasedProduct.php"
+			],
+			[
+				"shopcon",
+				"src\\CC\\AppBundle\\Controller\\API\\ShopController.php"
+			],
+			[
+				"playerre",
+				"src\\CC\\AppBundle\\Repository\\PlayerRepository.php"
+			],
+			[
+				"playercontroller",
+				"src\\CC\\AppBundle\\Controller\\API\\PlayerController.php"
+			],
+			[
+				"purchasedproduc",
+				"src\\CC\\AppBundle\\Entity\\PurchasedProduct.php"
+			],
+			[
+				"purchase",
+				"src\\CC\\AppBundle\\Entity\\PurchasedProduct.php"
+			],
+			[
+				"cancelpu",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\CancelPurchasedProductFormHandler.php"
+			],
+			[
+				"adminplayerfo",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\PlayerFormHandler.php"
+			],
+			[
+				"formhandler",
+				"src\\CC\\AppBundle\\Form\\Handler\\PlayerFormHandler.php"
+			],
+			[
+				"purca",
+				"src\\CC\\AppBundle\\Entity\\PurchasedProduct.php"
+			],
+			[
+				"purchas",
+				"src\\CC\\AppBundle\\Repository\\PurchasedProductRepository.php"
+			],
+			[
+				"purcha",
+				"src\\CC\\AppBundle\\Repository\\PurchasedProductRepository.php"
+			],
+			[
+				"cancelpurchasedproductform",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\CancelPurchasedProductFormHandler.php"
+			],
+			[
+				"routing",
+				"src\\CC\\AppBundle\\Resources\\config\\routing.yml"
+			],
+			[
+				"cancelpurchase",
+				"src\\CC\\AppBundle\\Form\\Type\\Admin\\CancelPurchasedProductFormType.php"
+			],
+			[
+				"cancelpurchasedproductformhandler",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\CancelPurchasedProductFromHandler.php"
+			],
+			[
+				"service",
+				"src\\CC\\AppBundle\\Resources\\config\\services.yml"
+			],
+			[
+				"redeemproductformhandler",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\RedeemProductFormHandler.php"
+			],
+			[
+				"shop",
+				"src\\CC\\AppBundle\\Controller\\API\\Admin\\AdminShopController.php"
+			],
+			[
+				"shopco",
+				"src\\CC\\AppBundle\\Controller\\API\\ShopController.php"
+			],
+			[
+				"purc",
+				"src\\CC\\AppBundle\\Entity\\PurchasedProduct.php"
+			],
+			[
+				"produ",
+				"src\\CC\\AppBundle\\Entity\\Product.php"
+			],
+			[
+				"redeempro",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\RedeemProductFormHandler.php"
+			],
+			[
+				"productreposity",
+				"src\\CC\\AppBundle\\Repository\\ProductTypeRepository.php"
+			],
+			[
+				"reposityu",
+				"src\\CC\\AppBundle\\Repository\\PurchasedProductRepository.php"
+			],
+			[
+				"failedtripfh",
+				"src\\CC\\AppBundle\\Form\\Handler\\FailedTripFormHandler.php"
+			],
+			[
+				"transactiontyp",
+				"src\\CC\\AppBundle\\Entity\\TransactionType.php"
+			],
+			[
+				"transaction",
+				"src\\CC\\AppBundle\\Entity\\Transaction.php"
+			],
+			[
+				"productrepoir",
+				"src\\CC\\AppBundle\\Repository\\ProductRepository.php"
+			],
+			[
+				"reedemproduc",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\RedeemProductFormHandler.php"
+			],
+			[
+				"validation.yml",
+				"src\\CC\\InternalAPIBundle\\Resources\\config\\validation.yml"
+			],
+			[
+				"settings",
+				"cc-vagrant\\www\\drupal\\sites\\malmobybike.se\\settings.php"
+			],
+			[
+				"crm",
+				"vendor\\basetis\\ccws\\src\\Basetis\\CCWS\\Caller\\CRMCaller.php"
+			],
+			[
+				"ccbko",
+				"vendor\\basetis\\ccws\\src\\Basetis\\CCWS\\CCBKO.php"
+			],
+			[
+				"broken",
+				"src\\CC\\AppBundle\\Form\\Handler\\BrokenBikeFormHandler.php"
+			],
+			[
+				"base_les",
+				"vendor\\mopa\\bootstrap-bundle\\Mopa\\Bundle\\BootstrapBundle\\Resources\\views\\base_less.html.twig"
+			],
+			[
+				"clienttype",
+				"src\\CC\\AdminBundle\\Form\\Type\\ClientFormType.php"
+			],
+			[
+				"base_less",
+				"vendor\\mopa\\bootstrap-bundle\\Mopa\\Bundle\\BootstrapBundle\\Resources\\views\\base_less.html.twig"
+			],
+			[
+				"base.html",
+				"app\\Resources\\views\\base.html.twig"
+			],
+			[
+				"base.",
+				"app\\Resources\\views\\base.html.twig"
+			],
+			[
+				"layout",
+				"src\\CC\\AdminBundle\\Resources\\views\\layout.html.twig"
+			],
+			[
+				"customerhand",
+				"src\\CC\\AppBundle\\Form\\Handler\\CustomerHandler.php"
+			],
+			[
+				"mopaboostrap-collection",
+				"web\\bundles\\mopabootstrap\\js\\mopabootstrap-collection.js"
+			],
+			[
+				"edit.h",
+				"src\\CC\\AdminBundle\\Resources\\views\\Client\\edit.html.twig"
+			],
+			[
+				"customercontro",
+				"src\\CC\\APIBundle\\Controller\\CustomerController.php"
+			],
+			[
+				"cityloceale",
+				"vendor\\basetis\\ccws\\src\\Basetis\\CCWS\\Tests\\Caller\\CityLocaleCallerTest.php"
+			],
+			[
+				"internalse",
+				"src\\CC\\AppBundle\\Resources\\config\\internal_services.yml"
+			],
+			[
+				"customer",
+				"src\\CC\\InternalAPIBundle\\Controller\\CustomerController.php"
+			],
+			[
+				"customerhan",
+				"src\\CC\\AppBundle\\Form\\Handler\\CustomerHandler.php"
+			],
+			[
+				"customercontrol",
+				"src\\CC\\APIBundle\\Controller\\CustomerController.php"
+			],
+			[
+				"internalcontrol",
+				"src\\CC\\InternalAPIBundle\\Controller\\ProblemReportController.php"
+			],
+			[
+				"stationcontro",
+				"src\\CC\\APIBundle\\Controller\\StationController.php"
+			],
+			[
+				"generate",
+				"src\\CC\\AppBundle\\Command\\GenerateCityCommand.php"
+			],
+			[
+				"internals",
+				"src\\CC\\AppBundle\\Resources\\config\\internal_services.yml"
+			],
+			[
+				"stationform",
+				"src\\CC\\AppBundle\\Form\\Handler\\StationFormHandler.php"
+			],
+			[
+				"config_",
+				"app\\config\\config_dev_malmo.yml"
+			],
+			[
+				"operationcontroll",
+				"src\\CC\\InternalAPIBundle\\Controller\\OperationController.php"
+			],
+			[
+				"stationissue",
+				"src\\CC\\AppBundle\\Model\\StationIssues.php"
+			],
+			[
+				"stationissuefor",
+				"src\\CC\\AppBundle\\Form\\Type\\StationIssuesFormType.php"
+			],
+			[
+				"stationissuefo",
+				"src\\CC\\AppBundle\\Form\\Handler\\StationIssueFormHandler.php"
+			],
+			[
+				"problemreportcontrol",
+				"src\\CC\\InternalAPIBundle\\Controller\\ProblemReportController.php"
+			],
+			[
+				"problemreport",
+				"src\\CC\\APIBundle\\Controller\\ProblemReportController.php"
+			],
+			[
+				"validation",
+				"src\\CC\\AppBundle\\Resources\\config\\validation.yml"
+			],
+			[
+				"basecaller",
+				"vendor\\basetis\\ccws\\src\\Basetis\\CCWS\\Caller\\BaseCaller.php"
+			],
+			[
+				"stationcon",
+				"src\\CC\\AdminBundle\\Controller\\StationController.php"
+			],
+			[
+				"stationproblem",
+				"src\\CC\\AppBundle\\Validator\\Constraints\\StationProblemValidator.php"
+			],
+			[
+				"commentform",
+				"src\\CC\\AppBundle\\Form\\Handler\\CommentFormHandler.php"
+			],
+			[
+				"internal_servi",
+				"src\\CC\\AppBundle\\Resources\\config\\internal_services.yml"
+			],
+			[
+				"problem",
+				"src\\CC\\APIBundle\\Controller\\ProblemReportController.php"
+			],
+			[
+				"internalser",
+				"src\\CC\\AppBundle\\Resources\\config\\internal_services.yml"
+			],
+			[
+				"lostcardf",
+				"src\\CC\\AppBundle\\Form\\Handler\\LostCardFormHandler.php"
+			],
+			[
+				"stationini",
+				"src\\CC\\AppBundle\\Form\\Handler\\StationInitializationFormHandler.php"
+			],
+			[
+				"problemrepor",
+				"src\\CC\\APIBundle\\Controller\\ProblemReportController.php"
+			],
+			[
+				"comment",
+				"src\\CC\\AppBundle\\Model\\Comment.php"
+			],
+			[
+				"sfh",
+				"src\\CC\\AppBundle\\Form\\Handler\\SubscriptionFormHandler.php"
+			],
+			[
+				"lostcard",
+				"src\\CC\\AppBundle\\Form\\Handler\\LostCardFormHandler.php"
+			],
+			[
+				"lostcardform",
+				"src\\CC\\AppBundle\\Form\\Type\\LostCardFormType.php"
+			],
+			[
+				"commentformty",
+				"src\\CC\\AppBundle\\Form\\Type\\CommentFormType.php"
+			],
+			[
+				"succes",
+				"src\\CC\\AppBundle\\Form\\Handler\\SuccessfulPaymentFinalizationFormHandler.php"
+			],
+			[
+				"stationcontrol",
+				"src\\CC\\APIBundle\\Controller\\StationController.php"
+			],
+			[
+				"problemre",
+				"src\\CC\\APIBundle\\Controller\\ProblemReportController.php"
+			],
+			[
+				"crmservicet",
+				"vendor\\basetis\\ccws\\src\\Basetis\\CCWS\\Tests\\Service\\CRMServiceTest.php"
+			],
+			[
+				"succe",
+				"src\\CC\\AppBundle\\Form\\Handler\\SuccessfulPaymentFinalizationFormHandler.php"
+			],
+			[
+				"succesful",
+				"src\\CC\\AppBundle\\Form\\Handler\\SuccessfulPaymentFinalizationFormHandler.php"
+			],
+			[
+				"crmser",
+				"vendor\\basetis\\ccws\\src\\Basetis\\CCWS\\Service\\CRMService.php"
+			],
+			[
+				"commento",
+				"src\\CC\\AppBundle\\Form\\Handler\\CommentFormHandler.php"
+			],
+			[
+				"commentf",
+				"src\\CC\\AppBundle\\Form\\Handler\\CommentFormHandler.php"
+			],
+			[
+				"brokenbik",
+				"src\\CC\\AppBundle\\Form\\Handler\\BrokenBikeFormHandler.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mi",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\middleware.sublime-project"
+			],
+			[
+				"middle",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\middleware.sublime-project"
+			],
+			[
+				"",
+				"C:\\xampp\\htdocs\\sy2_react_boilerplate\\sy2-react-boilerplate.sublime-workspace"
+			],
+			[
+				"mdd",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\middleware.sublime-project"
+			],
+			[
+				"mid",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\middleware.sublime-project"
+			],
+			[
+				"cc",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\ccapi.sublime-workspace"
+			],
+			[
+				"cca",
+				"C:\\Users\\Etor\\Documents\\cc_api\\cc-api.sublime-project"
+			],
+			[
+				"bici",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\bicing.sublime-project"
+			],
+			[
+				"middl",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\middleware.sublime-project"
+			],
+			[
+				"api",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\api_v3.sublime-project"
+			],
+			[
+				"socis",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\socis3a.sublime-project"
+			],
+			[
+				"cc-api",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\cc-api.sublime-workspace"
+			],
+			[
+				"ccw",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\ccws_drupal.sublime-project"
+			],
+			[
+				"bic",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\bicing.sublime-project"
+			],
+			[
+				"snake",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\snake.sublime-project"
+			],
+			[
+				"sop",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\SopaDeLletres.sublime-project"
+			]
+		],
+		"width": 674.0
+	},
+	"select_symbol":
+	{
+		"height": 219.0,
+		"last_filter": "processActv",
+		"selected_items":
+		[
+			[
+				"processActv",
+				"processActivatePlayer"
+			],
+			[
+				"putplayer",
+				"putPlayerAction"
+			],
+			[
+				"putPla",
+				"putPlayerAction"
+			],
+			[
+				"findByProductAndPlayer",
+				"findByProductAndPlayer"
+			],
+			[
+				"cancelPurchasedProduct",
+				"cancelPurchasedProductAction"
+			],
+			[
+				"getPurchasedProductsAction",
+				"getPurchasedProductsAction"
+			],
+			[
+				"buildform",
+				"buildForm"
+			],
+			[
+				"getcityda",
+				"getCityData"
+			],
+			[
+				"getcitylocal",
+				"getCityLocaleService"
+			],
+			[
+				"getS3PQuery",
+				"getS3PQuery"
+			],
+			[
+				"logClientsCalls",
+				"logClientsCalls"
+			]
+		],
+		"width": 864.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

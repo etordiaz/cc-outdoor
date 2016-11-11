@@ -23,7 +23,7 @@
 
   <body>
 
-    <nav class="navbar navbar-inverse navbar-fixed-top">
+    <!-- <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
           <a class="navbar-brand" href="/">Symfony React Example</a>
@@ -34,7 +34,7 @@
           </ul>
         </div>
       </div>
-    </nav>
+    </nav> -->
 
     <div class="main-container">
         <div class="container">
@@ -48,7 +48,7 @@
     {% block javascripts %}
         <script>
         {# set a base url to '/' or maybe '/app_dev.php' #}
-        window.baseUrl = '{{ path('homepage') }}';
+        window.baseUrl = '{{ path('app') }}';
         </script>
         {% if app.environment == "dev" %}
             <script src="{{ asset('webpack-dev-server.js', 'webpack') }}"></script>

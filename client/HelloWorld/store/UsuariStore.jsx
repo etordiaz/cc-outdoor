@@ -20,17 +20,16 @@ const loggerMiddleware = createLogger({
 export default function configureStore(props, browserHistory) {
 
     // This is how we get initial props from Symfony into redux.
-    const { recipes, recipe, baseUrl, location } = props;
-    const { recipesState } = initialStates;
+    const { usuari, baseUrl, location } = props;
+    const { usuariState } = initialStates;
 
     // Redux expects to initialize the store using an Object
     const initialState = {
-        recipesState: _.extend(recipesState, {
-            recipe: recipe,
-            recipes: recipes,
+        usuariState: _.extend(usuariState, {
+            usuari: usuari,
             baseUrl: baseUrl,
             location: location,
-        }),
+        }), 
     };
 
     const reduxRouterMiddleWare = routerMiddleware(browserHistory)

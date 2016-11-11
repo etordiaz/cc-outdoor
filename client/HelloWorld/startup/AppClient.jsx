@@ -1,9 +1,8 @@
 import React from 'react';
 import { Provider } from 'react-redux';
-require("../../sass/layout.scss");
 
-import configureStore from '../store/recipesStore';
-import Recipes from '../containers/recipes';
+import configureStore from '../store/UsuariStore';
+import Usuari from '../containers/Usuari';
 import configureRoutes from '../routes';
 import { Router, browserHistory } from 'react-router'
 import { syncHistoryWithStore, routerReducer } from 'react-router-redux';
@@ -13,7 +12,7 @@ import ReactOnRails from 'react-on-rails';
 // This is how you get props from the Rails view into the redux store.
 // This code here binds your smart component to the redux store.
 var mainNode = (props) => {
-    const store = ReactOnRails.getStore('recipesStore');
+    const store = ReactOnRails.getStore('usuariStore');
 
     const reactComponent = (
         <Provider store={store}>

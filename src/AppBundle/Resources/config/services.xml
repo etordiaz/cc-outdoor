@@ -5,9 +5,7 @@
     xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd">
 
     <services>
-        <service id="recipe.manager" class="AppBundle\RecipeManager">
-        </service>
-        <service id="helloWorld.manager" class="AppBundle\HelloWorldManager">
+        <service id="usuari.manager" class="AppBundle\UsuariManager">
         </service>
     </services>
 

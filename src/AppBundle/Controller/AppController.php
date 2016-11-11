@@ -6,24 +6,64 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\JsonResponse;
+use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
+use FOS\RestBundle\Controller\Annotations\Get;
+use FOS\RestBundle\Controller\Annotations\Post;
+use Nelmio\ApiDocBundle\Annotation\ApiDoc;
 
-class HelloWorldController extends Controller
+class AppController extends Controller
 {
     /**
-     * @Route("/helloWorld", name="helloWorld")
+     * Inicialització de l'aplicació amb renderització del twig corresponent.
+     * @Route("/app", name="app")
      */
-    public function helloWorldAction(Request $request)
+    public function appAction(Request $request)
     {
         $serializer = $this->get('serializer');
-        return $this->render('helloWorld/helloWorld.html.twig', [
+        
+        $usuari = $this->get('usuari.manager')->getUsuari();
+
+        return $this->render('app/app.html.twig', [
             // We pass an array as props
             'props' => $serializer->normalize(
-                ['salutacio' => $this->get('helloWorld.manager')->findAll(),
-                // '/' or maybe '/app_dev.php/', so the React Router knows about the root
-                 'baseUrl' => $this->generateUrl('helloWorld'),
-                 'location' => $request->getRequestUri()
-                ])
+                ['usuari' => $usuari,
+                'baseUrl' => $this->generateUrl('app'),
+                'location' => $request->getRequestUri(),
+                ]
+            )
         ]);
+    }
+
+    /**
+     * Retorna les dades d'un usuari
+     *
+     * @ApiDoc(
+     *   description = "Retorna les dades dels presents usuaris",
+     *   output = "AppBundle\Model\Usuari",
+     *   statusCodes = {
+     *      200="Returned when successful",
+     *      403="Returned when the user is not authorized",
+     *      404={
+     *           "Returned when something the user's invoice history is not found"
+     *      }
+     *   },
+     *   requirements={
+     *   },
+     *   section = "Usuari",
+     * )
+     *
+     * @return array
+     *
+     * @throws NotFoundHttpException when list not found
+     *
+     * GET Route annotation.
+     * @Get("/usuari", defaults={ "_format" = "json" })
+     */
+
+    public function usuariAction(Request $request)
+    {
+        $serializer = $this->get('serializer');
+        return new JsonResponse($this->get('usuari.manager')->getUsuari());
     }
 
     // /**
