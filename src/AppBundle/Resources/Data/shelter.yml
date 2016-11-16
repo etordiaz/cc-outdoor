@@ -1,0 +1,21 @@
+shelters:
+    -
+        name: 'MT0257'
+        slug: 'MT0257'
+        text: 'Cruïlla entre GIV-6741 GIV-674'
+        image: 'marq1.jpg'
+    -
+        name: 'MG0410'
+        slug: 'MG0410'
+        text: 'C-152, Km. 44 [Ctra Vic]'
+        image: 'marq2.jpg' 
+    -
+        name: 'ML0288'
+        slug: 'ML0288'
+        text: 'C-242 cruïlla Pl les Escoles'
+        image: 'marq3.jpg' 
+    -
+        name: 'MB0376'
+        slug: 'MB0376'
+        text: 'Av Rei En Jaume, [C-251 Km 7,8]'
+        image: 'marq4.jpg'

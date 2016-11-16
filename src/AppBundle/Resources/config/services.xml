@@ -5,8 +5,8 @@
     xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd">
 
     <services>
-        <service id="usuari.manager" class="AppBundle\UsuariManager">
-        </service>
+        <service id="shelter.manager" class="AppBundle\ShelterManager"></service>
+        <service id="usuari.manager" class="AppBundle\UsuariManager"></service>
     </services>
 
 </container>

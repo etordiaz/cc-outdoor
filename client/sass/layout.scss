@@ -5,10 +5,12 @@ body {
   padding-top: 50px;
 }
 
+.container{
+    width: 95%;
+}
 .main-container {
   padding: 40px 15px;
-
-  a .recipe-body {
+  a .shelter-body {
       text-decoration: none;
       color: black;
   }
@@ -17,4 +19,22 @@ body {
 #search-box {
     width: 300px;
     margin-top: 20px;
+}
+
+nav.navbar.navbar-inverse.navbar-fixed-top {
+  background-color: #0E1A35;
+  a.navbar-brand {
+    width: 400px;
+    height: auto;
+  }
+}
+
+ul.nav.navbar-nav.pull-right {
+  color:lightgrey;
+  font-size: 20px;
+  padding: 12px;
+
+  span {
+      color:#88b2d6;
+  }
 }

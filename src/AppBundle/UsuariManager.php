@@ -15,8 +15,8 @@ class UsuariManager
 
         $this->usuariEntity = new Usuari();
         $this->usuariEntity->setNom($usuariYaml['nom']);
-        $this->usuariEntity->setDescripcio($usuariYaml['descripcio']);
-        $this->usuariEntity->setThumbnail($usuariYaml['imatge']);
+        $this->usuariEntity->setPoblacio($usuariYaml['poblacio']);
+        $this->usuariEntity->setPoblacioSlug($usuariYaml['poblacioSlug']);
     }
 
     public function getUsuari()

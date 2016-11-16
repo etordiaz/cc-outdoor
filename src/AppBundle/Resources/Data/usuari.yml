@@ -1,6 +1,6 @@
 usuari:
     -
-        nom: 'Usuari pepe'
-        descripcio: 'Descripcio de usuari anonim'
-        imatge: 'sushi.jpg'
+        nom: 'Joan'
+        poblacio: 'Sant Andreu de la Barca'
+        poblacioSlug: 'SABARCA'
   

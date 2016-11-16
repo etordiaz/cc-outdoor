@@ -1,9 +1,10 @@
 {% extends 'base.html.twig' %}
 
 {% block body %}
-<!-- redux example: -->
-{{ redux_store('usuariStore', props) }}
+
+{{ redux_store('appStore', props) }}
 {{ react_component('mainApp') }}
+
 {% endblock %}
 
 

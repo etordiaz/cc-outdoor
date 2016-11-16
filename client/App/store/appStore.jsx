@@ -21,15 +21,15 @@ export default function configureStore(props, browserHistory) {
 
     // This is how we get initial props from Symfony into redux.
     const { usuari, baseUrl, location } = props;
-    const { usuariState } = initialStates;
+    const { sheltersState } = initialStates;
 
     // Redux expects to initialize the store using an Object
     const initialState = {
-        usuariState: _.extend(usuariState, {
+        sheltersState: _.extend(sheltersState, {
             usuari: usuari,
             baseUrl: baseUrl,
             location: location,
-        }), 
+        }),
     };
 
     const reduxRouterMiddleWare = routerMiddleware(browserHistory)

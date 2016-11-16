@@ -12,15 +12,17 @@ class Usuari
     /**
      * @var string
      */
-    public $descripcio;
+    public $poblacio;
 
     /**
      * @var string
      */
-    public $thumbnail;
+    public $poblacioSlug;
 
 
     public function __construct(){}
+
+   
 
     /**
      * Gets the value of nom.
@@ -47,49 +49,49 @@ class Usuari
     }
 
     /**
-     * Gets the value of descripcio.
+     * Gets the value of poblacio.
      *
      * @return string
      */
-    public function getDescripcio()
+    public function getPoblacio()
     {
-        return $this->descripcio;
+        return $this->poblacio;
     }
 
     /**
-     * Sets the value of descripcio.
+     * Sets the value of poblacio.
      *
-     * @param string $descripcio the descripcio
+     * @param string $poblacio the poblacio
      *
      * @return self
      */
-    public function setDescripcio($descripcio)
+    public function setPoblacio($poblacio)
     {
-        $this->descripcio = $descripcio;
+        $this->poblacio = $poblacio;
 
         return $this;
     }
 
     /**
-     * Gets the value of thumbnail.
+     * Gets the value of poblacioSlug.
      *
      * @return string
      */
-    public function getThumbnail()
+    public function getPoblacioSlug()
     {
-        return $this->thumbnail;
+        return $this->poblacioSlug;
     }
 
     /**
-     * Sets the value of thumbnail.
+     * Sets the value of poblacioSlug.
      *
-     * @param string $thumbnail the thumbnail
+     * @param string $poblacioSlug the poblacio slug
      *
      * @return self
      */
-    public function setThumbnail($thumbnail)
+    public function setPoblacioSlug($poblacioSlug)
     {
-        $this->thumbnail = $thumbnail;
+        $this->poblacioSlug = $poblacioSlug;
 
         return $this;
     }

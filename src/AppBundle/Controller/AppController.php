@@ -26,7 +26,7 @@ class AppController extends Controller
         return $this->render('app/app.html.twig', [
             // We pass an array as props
             'props' => $serializer->normalize(
-                ['usuari' => $usuari,
+                ['app' => $usuari,
                 'baseUrl' => $this->generateUrl('app'),
                 'location' => $request->getRequestUri(),
                 ]
@@ -57,10 +57,10 @@ class AppController extends Controller
      * @throws NotFoundHttpException when list not found
      *
      * GET Route annotation.
-     * @Get("/usuari", defaults={ "_format" = "json" })
+     * @Get("/app/refresh", defaults={ "_format" = "json" })
      */
 
-    public function usuariAction(Request $request)
+    public function appRefreshAction(Request $request)
     {
         $serializer = $this->get('serializer');
         return new JsonResponse($this->get('usuari.manager')->getUsuari());
