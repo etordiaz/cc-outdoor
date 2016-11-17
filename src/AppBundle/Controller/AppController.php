@@ -35,14 +35,15 @@ class AppController extends Controller
     public function shelterAction($slug, Request $request)
     {
         $serializer = $this->get('serializer');
-        if (!$shelter = $this->get('shelter.manager')->findOneBySlug($slug)) {
+        if (!$this->get('shelter.manager')->findOneBySlug($slug)) {
             throw $this->createNotFoundException('The shelter does not exist');
         }
-        return $this->render('app/shelter.html.twig', [
+        return $this->render('app/shelters.html.twig', [
             // A JSON string also works
             'props' => $serializer->serialize(
                 ['shelter' => $this->get('shelter.manager')->findOneBySlug($slug),
-                 'baseUrl' => $this->generateUrl('shelter'),
+                'usuari' => $this->get('usuari.manager')->getUsuari(),
+                 'baseUrl' => $this->generateUrl('app'),
                  'location' => $request->getRequestUri()
                 ], 'json')
         ]);
