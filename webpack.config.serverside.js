@@ -3,6 +3,7 @@
 const webpack = require('webpack');
 const path = require('path');
 
+
 const devBuild = process.env.NODE_ENV !== 'production';
 const nodeEnv = devBuild ? 'development' : 'production';
 
@@ -12,7 +13,9 @@ module.exports = {
     context: __dirname,
     entry: [
         // './client/Recipes/startup/serverRegistration'
-        './client/Recipes-redux/startup/serverRegistration'
+        './client/App/startup/serverRegistration',
+        // './client/HelloWorld/startup/serverRegistration'
+
         ],
     output: {
         filename: 'app/Resources/webpack/server-bundle.js',
