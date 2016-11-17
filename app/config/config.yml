@@ -74,7 +74,7 @@ swiftmailer:
 
 # These are the default configuration options for the React Bundle
 limenius_react:
-    # Other options are "server_side" and "client_side"
+    # Other options are "server_side", "both" and "client_side"
     default_rendering: "client_side"
     serverside_rendering:
         # In case of error in server-side rendering, throw exception
@@ -96,3 +96,5 @@ limenius_react:
         # Such as the one in `Resources/node-server/server.js`
         # null will default to `%kernel.root_dir%/Resources/node-server/node.sock
         server_socket_path: null
+
+nelmio_api_doc: ~

@@ -1,0 +1,1868 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bs",
+				"bs3-button\tbs3-button"
+			],
+			[
+				"usuari",
+				"usuariYaml"
+			],
+			[
+				"usua",
+				"usuariYaml"
+			],
+			[
+				"usari",
+				"usuariEntity"
+			],
+			[
+				"usu",
+				"usuariEntity"
+			],
+			[
+				"Usu",
+				"usuariEntity"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"pirn",
+				"print_r"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"cancel",
+				"cancelerUser"
+			],
+			[
+				"REDEMPTION",
+				"redemptionDate"
+			],
+			[
+				"pur",
+				"PurchasedProduct"
+			],
+			[
+				"Cancel",
+				"CancelPurchasedProduct"
+			],
+			[
+				"cance",
+				"cancelPurchasedProduct"
+			],
+			[
+				"redem",
+				"redemptionDateObj"
+			],
+			[
+				"bicing",
+				"bicingProduct"
+			],
+			[
+				"getI",
+				"getId"
+			],
+			[
+				"pp",
+				"ppId"
+			],
+			[
+				"purchased",
+				"purchasedProduct"
+			],
+			[
+				"player",
+				"playerId"
+			],
+			[
+				"product",
+				"productId"
+			],
+			[
+				"purc",
+				"purchasedProduct"
+			],
+			[
+				"acce",
+				"AccessoriesProducts"
+			],
+			[
+				"Ex",
+				"ExternalProducts"
+			],
+			[
+				"new",
+				"new_array"
+			],
+			[
+				"products",
+				"productsCC"
+			],
+			[
+				"getRede",
+				"getRedemptionDate"
+			],
+			[
+				"array_inte",
+				"array_intersect_key"
+			],
+			[
+				"Id",
+				"IdFilter"
+			],
+			[
+				"produc",
+				"productId"
+			],
+			[
+				"purcha",
+				"purchasedProductModel"
+			],
+			[
+				"purchase",
+				"purchasedProductModel"
+			],
+			[
+				"purcah",
+				"purchasedProducts"
+			],
+			[
+				"invo",
+				"invoiceData"
+			],
+			[
+				"histo",
+				"historyFilters"
+			],
+			[
+				"issues",
+				"issuesDetails"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"stationI",
+				"stationIssuesList"
+			],
+			[
+				"station",
+				"stationIssuesList"
+			],
+			[
+				"map",
+				"maptoolURL"
+			],
+			[
+				"Station",
+				"StationProblem"
+			],
+			[
+				"Comment",
+				"CommentFormHandler"
+			],
+			[
+				"error",
+				"errorManager"
+			],
+			[
+				"request",
+				"requestWs"
+			],
+			[
+				"cust",
+				"custId"
+			],
+			[
+				"clientT",
+				"clientType"
+			],
+			[
+				"acces",
+				"accesMode"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"payme",
+				"paymentFinalization"
+			],
+			[
+				"payment",
+				"paymentRawData"
+			],
+			[
+				"birt",
+				"setBirthday"
+			],
+			[
+				"inpu",
+				"inputData"
+			],
+			[
+				"WS",
+				"WSCustomer"
+			],
+			[
+				"customer",
+				"customerNew"
+			],
+			[
+				"tick",
+				"ticketMessage"
+			],
+			[
+				"ws",
+				"WSSubscriptions"
+			],
+			[
+				"subsc",
+				"subscriptionsSelect"
+			],
+			[
+				"subs",
+				"subscriptionTypeIdsAndNames"
+			],
+			[
+				"lo",
+				"loggedUser"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"su",
+				"Subscription"
+			],
+			[
+				"set",
+				"setlocale"
+			],
+			[
+				"Subscrit",
+				"subscriptionTerms"
+			],
+			[
+				"subcription",
+				"subscriptionArray"
+			],
+			[
+				"terms",
+				"termsVersion"
+			],
+			[
+				"custom",
+				"customPassLength"
+			],
+			[
+				"sub",
+				"Subscription"
+			],
+			[
+				"unreco",
+				"unrecognizedBike"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"customer_p",
+				"customer_password"
+			],
+			[
+				"id",
+				"id_number"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"user",
+				"usernameValidation"
+			],
+			[
+				"UserNa",
+				"usernameValidation"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"php",
+				"phpcredits"
+			],
+			[
+				"logs",
+				"logs"
+			],
+			[
+				"Custom",
+				"CustomerController"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "{\n  \"name\": \"symfony-react-sandbox\",\n  \"version\": \"0.1.0\",\n  \"description\": \"Symfony React Sandbox\",\n  \"main\": \"index.js\",\n  \"directories\": {\n    \"test\": \"tests\"\n  },\n  \"scripts\": {\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n  },\n  \"keywords\": [\n    \"symfony\",\n    \"react\",\n    \"jsx\",\n    \"reactjs\",\n    \"server-side\",\n    \"rendering\",\n    \"isomorphic\"\n  ],\n  \"author\": {\n    \"name\": \"Nacho Martín\",\n    \"email\": \"nacho@limenius.com\",\n    \"url\": \"http://nacho-martin.com/\"\n  },\n  \"license\": \"MIT\",\n  \"dependencies\": {\n    \"babel\": \"^6.5.2\",\n    \"history\": \"^3.0.0\",\n    \"immutable\": \"^3.7.6\",\n    \"jquery\": \"^3.1.0\",\n    \"jquery-ujs\": \"^1.1.0-1\",\n    \"lodash\": \"^4.14.1\",\n    \"react\": \"^15.0.0\",\n    \"react-bootstrap\": \"^0.30.1\",\n    \"react-dom\": \"^15.3.0\",\n    \"react-on-rails\": \"6.0.5\",\n    \"react-redux\": \"^4.4.5\",\n    \"react-router\": \"^2.0.0\",\n    \"react-router-redux\": \"^4.0.0\",\n    \"redux\": \"^3.3.1\",\n    \"redux-logger\": \"^2.6.1\",\n    \"redux-thunk\": \"^2.0.1\",\n    \"webpack\": \"^1.12.8\"\n  },\n  \"devDependencies\": {\n    \"babel-cli\": \"^6.6.5\",\n    \"babel-core\": \"^6.7.4\",\n    \"babel-eslint\": \"^6.1.2\",\n    \"babel-loader\": \"^6.2.4\",\n    \"babel-plugin-react-transform\": \"^2.0.2\",\n    \"babel-plugin-syntax-decorators\": \"^6.3.13\",\n    \"babel-plugin-transform-runtime\": \"^6.6.0\",\n    \"babel-polyfill\": \"^6.7.4\",\n    \"babel-preset-es2015\": \"^6.3.13\",\n    \"babel-preset-react\": \"^6.3.13\",\n    \"babel-preset-stage-0\": \"^6.3.13\",\n    \"copy-webpack-plugin\": \"^3.0.1\",\n    \"css-loader\": \"^0.23.0\",\n    \"es5-shim\": \"^4.4.1\",\n    \"eslint\": \"^3.2.2\",\n    \"eslint-config-airbnb\": \"^10.0.0\",\n    \"eslint-plugin-import\": \"^1.12.0\",\n    \"eslint-plugin-jsx-a11y\": \"^2.0.1\",\n    \"eslint-plugin-react\": \"^6.0.0\",\n    \"expose-loader\": \"^0.7.1\",\n    \"extract-text-webpack-plugin\": \"^1.0.1\",\n    \"file-loader\": \"^0.9.0\",\n    \"imports-loader\": \"^0.6.5\",\n    \"loade-rutils\": \"^0.2.15\",\n    \"react-transform-hmr\": \"^1.0.1\",\n    \"style-loader\": \"^0.13.0\",\n    \"url-loader\": \"^0.5.6\",\n    \"webpack-dev-server\": \"^1.12.1\"\n  }\n}\n",
+			"file": "package.json",
+			"file_size": 2115,
+			"file_write_time": 131233344616922599,
+			"settings":
+			{
+				"buffer_size": 2015,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 16 files for \"client_side\"\n\n0 matches\n\nSearching 30053 files for \"client_side\"\n\nC:\\Users\\Etor\\Documents\\cc-outdoor-boilerplate\\app\\config\\config.yml:\n   75  # These are the default configuration options for the React Bundle\n   76  limenius_react:\n   77:     # Other options are \"server_side\" and \"client_side\"\n   78      default_rendering: \"both\"\n   79      serverside_rendering:\n\nC:\\Users\\Etor\\Documents\\cc-outdoor-boilerplate\\vendor\\limenius\\react-bundle\\DependencyInjection\\Configuration.php:\n   18              ->children()\n   19                  ->enumNode('default_rendering')\n   20:                     ->values(array('server_side', 'client_side', 'both'))\n   21                      ->defaultValue('both')\n   22                  ->end()\n\nC:\\Users\\Etor\\Documents\\cc-outdoor-boilerplate\\vendor\\limenius\\react-bundle\\Resources\\doc\\index.md:\n   50  \n   51      limenius_react:\n   52:         # Other options are \"server_side\" and \"client_side\"\n   53          default_rendering: \"both\"\n   54          serverside_rendering:\n   ..\n  130  \n  131  ```twig\n  132: {{ react_component('RecipesApp', {'props': props, 'rendering': 'client_side'}) }}\n  133  ```\n  134  \n\nC:\\Users\\Etor\\Documents\\cc-outdoor-boilerplate\\vendor\\limenius\\react-bundle\\Twig\\ReactRenderExtension.php:\n   33              $this->renderServerSide = true;\n   34              break;\n   35:         case 'client_side':\n   36              $this->renderClientSide = true;\n   37              $this->renderServerSide = false;\n   ..\n  102      public function shouldRenderClientSide($options) {\n  103          if (isset($options['rendering'])) {\n  104:             if (in_array($options['rendering'], ['client_side', 'both'])) {\n  105                  return true;\n  106              } else {\n\n6 matches across 4 files\n\n\nSearching 30056 files for \"usuariState\"\n\nC:\\Users\\Etor\\Documents\\cc-outdoor-boilerplate\\app\\Resources\\webpack\\server-bundle.js:\n 26011  \t        baseUrl = props.baseUrl,\n 26012  \t        location = props.location;\n 26013: \t    var usuariState = _reducers.initialStates.usuariState;\n 26014  \n 26015  \t    // Redux expects to initialize the store using an Object\n 26016  \n 26017  \t    var initialState = {\n 26018: \t        usuariState: _lodash2.default.extend(usuariState, {\n 26019  \t            usuari: usuari,\n 26020  \t            baseUrl: baseUrl,\n .....\n 44330  \t});\n 44331  \tvar initialStates = exports.initialStates = {\n 44332: \t    usuariState: _usuariReducer.initialState\n 44333  \t};\n 44334  \n\nC:\\Users\\Etor\\Documents\\cc-outdoor-boilerplate\\client\\HelloWorld\\reducers\\index.jsx:\n    1  import usuariReducer from './usuariReducer';\n    2: import { initialState as usuariState } from './usuariReducer';\n    3  import { combineReducers }  from 'redux';\n    4  \n    .\n   10  \n   11  export const initialStates = {\n   12:     usuariState,\n   13  };\n   14  \n\nC:\\Users\\Etor\\Documents\\cc-outdoor-boilerplate\\client\\HelloWorld\\store\\UsuariStore.jsx:\n   22      // This is how we get initial props from Symfony into redux.\n   23      const { usuari, baseUrl, location } = props;\n   24:     const { usuariState } = initialStates;\n   25  \n   26      // Redux expects to initialize the store using an Object\n   27      const initialState = {\n   28:         usuariState: _.extend(usuariState, {\n   29              usuari: usuari,\n   30              baseUrl: baseUrl,\n\nC:\\Users\\Etor\\Documents\\cc-outdoor-boilerplate\\web\\assets\\build\\client-bundle.js:\n 1894  /***/ function(module, exports, __webpack_require__) {\n 1895  \n 1896: \teval(\"'use strict';\\n\\nObject.defineProperty(exports, \\\"__esModule\\\", {\\n    value: true\\n});\\nexports.default = configureStore;\\n\\nvar _redux = __webpack_require__(285);\\n\\nvar _reactRouterRedux = __webpack_require__(309);\\n\\nvar _reduxLogger = __webpack_require__(314);\\n\\nvar _reduxLogger2 = _interopRequireDefault(_reduxLogger);\\n\\nvar _lodash = __webpack_require__(320);\\n\\nvar _lodash2 = _interopRequireDefault(_lodash);\\n\\nvar _reduxThunk = __webpack_require__(321);\\n\\nvar _reduxThunk2 = _interopRequireDefault(_reduxThunk);\\n\\nvar _reducers = __webpack_require__(322);\\n\\nvar _reducers2 = _interopRequireDefault(_reducers);\\n\\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\\n\\nvar loggerMiddleware = (0, _reduxLogger2.default)({\\n    level: 'info',\\n    collapsed: true\\n});\\n\\n// See\\n// https://github.com/gaearon/redux-thunk and http://redux.js.org/docs/advanced/AsyncActions.html\\n// This is not actually used for this simple example, but you'd probably want to use this\\n// once your app has asynchronous actions.\\nfunction configureStore(props, browserHistory) {\\n\\n    // This is how we get initial props from Symfony into redux.\\n    var usuari = props.usuari,\\n        baseUrl = props.baseUrl,\\n        location = props.location;\\n    var usuariState = _reducers.initialStates.usuariState;\\n\\n    // Redux expects to initialize the store using an Object\\n\\n    var initialState = {\\n        usuariState: _lodash2.default.extend(usuariState, {\\n            usuari: usuari,\\n            baseUrl: baseUrl,\\n            location: location\\n        })\\n    };\\n\\n    var reduxRouterMiddleWare = (0, _reactRouterRedux.routerMiddleware)(browserHistory);\\n    var store = (0, _redux.createStore)(_reducers2.default, (0, _redux.applyMiddleware)(reduxRouterMiddleWare, _reduxThunk2.default, loggerMiddleware));\\n    return store;\\n}\\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jbGllbnQvSGVsbG9Xb3JsZC9zdG9yZS9Vc3VhcmlTdG9yZS5qc3g/NjQwNCJdLCJuYW1lcyI6WyJjb25maWd1cmVTdG9yZSIsImxvZ2dlck1pZGRsZXdhcmUiLCJsZXZlbCIsImNvbGxhcHNlZCIsInByb3BzIiwiYnJvd3Nlckhpc3RvcnkiLCJ1c3VhcmkiLCJiYXNlVXJsIiwibG9jYXRpb24iLCJ1c3VhcmlTdGF0ZSIsImluaXRpYWxTdGF0ZSIsImV4dGVuZCIsInJlZHV4Um91dGVyTWlkZGxlV2FyZSIsInN0b3JlIl0sIm1hcHBpbmdzIjoiOzs7OztrQkFtQndCQSxjOztBQW5CeEI7O0FBQ0E7O0FBQ0E7Ozs7QUFDQTs7OztBQU1BOzs7O0FBRUE7Ozs7OztBQUdBLElBQU1DLG1CQUFtQiwyQkFBYTtBQUNsQ0MsV0FBTyxNQUQyQjtBQUVsQ0MsZUFBVztBQUZ1QixDQUFiLENBQXpCOztBQVRBO0FBQ0E7QUFDQTtBQUNBO0FBV2UsU0FBU0gsY0FBVCxDQUF3QkksS0FBeEIsRUFBK0JDLGNBQS9CLEVBQStDOztBQUUxRDtBQUYwRCxRQUdsREMsTUFIa0QsR0FHcEJGLEtBSG9CLENBR2xERSxNQUhrRDtBQUFBLFFBRzFDQyxPQUgwQyxHQUdwQkgsS0FIb0IsQ0FHMUNHLE9BSDBDO0FBQUEsUUFHakNDLFFBSGlDLEdBR3BCSixLQUhvQixDQUdqQ0ksUUFIaUM7QUFBQSxRQUlsREMsV0FKa0QsMkJBSWxEQSxXQUprRDs7QUFNMUQ7O0FBQ0EsUUFBTUMsZUFBZTtBQUNqQkQscUJBQWEsaUJBQUVFLE1BQUYsQ0FBU0YsV0FBVCxFQUFzQjtBQUMvQkgsb0JBQVFBLE1BRHVCO0FBRS9CQyxxQkFBU0EsT0FGc0I7QUFHL0JDLHNCQUFVQTtBQUhxQixTQUF0QjtBQURJLEtBQXJCOztBQVFBLFFBQU1JLHdCQUF3Qix3Q0FBaUJQLGNBQWpCLENBQTlCO0FBQ0EsUUFBTVEsUUFBUSw0Q0FFViw0QkFBZ0JELHFCQUFoQix3QkFBd0RYLGdCQUF4RCxDQUZVLENBQWQ7QUFLQSxXQUFPWSxLQUFQO0FBQ0giLCJmaWxlIjoiMzA4LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgY29tcG9zZSwgY3JlYXRlU3RvcmUsIGFwcGx5TWlkZGxld2FyZSwgY29tYmluZVJlZHVjZXJzIH0gZnJvbSAncmVkdXgnO1xuaW1wb3J0IHsgcm91dGVyTWlkZGxld2FyZSB9IGZyb20gJ3JlYWN0LXJvdXRlci1yZWR1eCc7XG5pbXBvcnQgY3JlYXRlTG9nZ2VyIGZyb20gJ3JlZHV4LWxvZ2dlcic7XG5pbXBvcnQgXyBmcm9tICdsb2Rhc2gnO1xuXG4vLyBTZWVcbi8vIGh0dHBzOi8vZ2l0aHViLmNvbS9nYWVhcm9uL3JlZHV4LXRodW5rIGFuZCBodHRwOi8vcmVkdXguanMub3JnL2RvY3MvYWR2YW5jZWQvQXN5bmNBY3Rpb25zLmh0bWxcbi8vIFRoaXMgaXMgbm90IGFjdHVhbGx5IHVzZWQgZm9yIHRoaXMgc2ltcGxlIGV4YW1wbGUsIGJ1dCB5b3UnZCBwcm9iYWJseSB3YW50IHRvIHVzZSB0aGlzXG4vLyBvbmNlIHlvdXIgYXBwIGhhcyBhc3luY2hyb25vdXMgYWN0aW9ucy5cbmltcG9ydCB0aHVua01pZGRsZXdhcmUgZnJvbSAncmVkdXgtdGh1bmsnO1xuXG5pbXBvcnQgcmVkdWNlcnMgZnJvbSAnLi4vcmVkdWNlcnMnO1xuaW1wb3J0IHsgaW5pdGlhbFN0YXRlcyB9IGZyb20gJy4uL3JlZHVjZXJzJztcblxuY29uc3QgbG9nZ2VyTWlkZGxld2FyZSA9IGNyZWF0ZUxvZ2dlcih7XG4gICAgbGV2ZWw6ICdpbmZvJyxcbiAgICBjb2xsYXBzZWQ6IHRydWUsXG59KTtcblxuZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gY29uZmlndXJlU3RvcmUocHJvcHMsIGJyb3dzZXJIaXN0b3J5KSB7XG5cbiAgICAvLyBUaGlzIGlzIGhvdyB3ZSBnZXQgaW5pdGlhbCBwcm9wcyBmcm9tIFN5bWZvbnkgaW50byByZWR1eC5cbiAgICBjb25zdCB7IHVzdWFyaSwgYmFzZVVybCwgbG9jYXRpb24gfSA9IHByb3BzO1xuICAgIGNvbnN0IHsgdXN1YXJpU3RhdGUgfSA9IGluaXRpYWxTdGF0ZXM7XG5cbiAgICAvLyBSZWR1eCBleHBlY3RzIHRvIGluaXRpYWxpemUgdGhlIHN0b3JlIHVzaW5nIGFuIE9iamVjdFxuICAgIGNvbnN0IGluaXRpYWxTdGF0ZSA9IHtcbiAgICAgICAgdXN1YXJpU3RhdGU6IF8uZXh0ZW5kKHVzdWFyaVN0YXRlLCB7XG4gICAgICAgICAgICB1c3Vhcmk6IHVzdWFyaSxcbiAgICAgICAgICAgIGJhc2VVcmw6IGJhc2VVcmwsXG4gICAgICAgICAgICBsb2NhdGlvbjogbG9jYXRpb24sXG4gICAgICAgIH0pLCBcbiAgICB9O1xuXG4gICAgY29uc3QgcmVkdXhSb3V0ZXJNaWRkbGVXYXJlID0gcm91dGVyTWlkZGxld2FyZShicm93c2VySGlzdG9yeSlcbiAgICBjb25zdCBzdG9yZSA9IGNyZWF0ZVN0b3JlKFxuICAgICAgICByZWR1Y2VycyxcbiAgICAgICAgYXBwbHlNaWRkbGV3YXJlKHJlZHV4Um91dGVyTWlkZGxlV2FyZSwgdGh1bmtNaWRkbGV3YXJlLCBsb2dnZXJNaWRkbGV3YXJlKSxcbiAgICAgICAgLy90eXBlb2Ygd2luZG93ID09PSAnb2JqZWN0JyAmJiB0eXBlb2Ygd2luZG93LmRldlRvb2xzRXh0ZW5zaW9uICE9PSAndW5kZWZpbmVkJyA/IHdpbmRvdy5kZXZUb29sc0V4dGVuc2lvbigpIDogZiA9PiBmXG4gICAgKTtcbiAgICByZXR1cm4gc3RvcmU7XG59XG5cblxuXG4vLyBXRUJQQUNLIEZPT1RFUiAvL1xuLy8gLi9jbGllbnQvSGVsbG9Xb3JsZC9zdG9yZS9Vc3VhcmlTdG9yZS5qc3giXSwic291cmNlUm9vdCI6IiJ9\");\n 1897  \n 1898  /***/ },\n ....\n 1978  /***/ function(module, exports, __webpack_require__) {\n 1979  \n 1980: \teval(\"'use strict';\\n\\nObject.defineProperty(exports, \\\"__esModule\\\", {\\n    value: true\\n});\\nexports.initialStates = undefined;\\n\\nvar _usuariReducer = __webpack_require__(323);\\n\\nvar _usuariReducer2 = _interopRequireDefault(_usuariReducer);\\n\\nvar _redux = __webpack_require__(285);\\n\\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\\n\\n// Combine all reducers you may have here\\nexports.default = (0, _redux.combineReducers)({\\n    usuari: _usuariReducer2.default\\n\\n});\\nvar initialStates = exports.initialStates = {\\n    usuariState: _usuariReducer.initialState\\n};\\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jbGllbnQvSGVsbG9Xb3JsZC9yZWR1Y2Vycy9pbmRleC5qc3g/ZWFjMiJdLCJuYW1lcyI6WyJ1c3VhcmkiLCJpbml0aWFsU3RhdGVzIiwidXN1YXJpU3RhdGUiXSwibWFwcGluZ3MiOiI7Ozs7Ozs7QUFBQTs7OztBQUVBOzs7O0FBRUE7a0JBQ2UsNEJBQWdCO0FBQzNCQTs7QUFEMkIsQ0FBaEIsQztBQUtSLElBQU1DLHdDQUFnQjtBQUN6QkM7QUFEeUIsQ0FBdEIiLCJmaWxlIjoiMzIyLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHVzdWFyaVJlZHVjZXIgZnJvbSAnLi91c3VhcmlSZWR1Y2VyJztcbmltcG9ydCB7IGluaXRpYWxTdGF0ZSBhcyB1c3VhcmlTdGF0ZSB9IGZyb20gJy4vdXN1YXJpUmVkdWNlcic7XG5pbXBvcnQgeyBjb21iaW5lUmVkdWNlcnMgfSAgZnJvbSAncmVkdXgnO1xuXG4vLyBDb21iaW5lIGFsbCByZWR1Y2VycyB5b3UgbWF5IGhhdmUgaGVyZVxuZXhwb3J0IGRlZmF1bHQgY29tYmluZVJlZHVjZXJzKHtcbiAgICB1c3Vhcmk6IHVzdWFyaVJlZHVjZXIsXG5cbn0pO1xuXG5leHBvcnQgY29uc3QgaW5pdGlhbFN0YXRlcyA9IHtcbiAgICB1c3VhcmlTdGF0ZSxcbn07XG5cblxuXG4vLyBXRUJQQUNLIEZPT1RFUiAvL1xuLy8gLi9jbGllbnQvSGVsbG9Xb3JsZC9yZWR1Y2Vycy9pbmRleC5qc3giXSwic291cmNlUm9vdCI6IiJ9\");\n 1981  \n 1982  /***/ },\n\n15 matches across 4 files\n\n\nSearching 16 files for \"/containers/Usuari\"\n\nC:\\Users\\Etor\\Documents\\cc-outdoor-boilerplate\\client\\HelloWorld\\routes\\index.jsx:\n    1  import { IndexRoute, Route } from 'react-router';\n    2  import React from 'react';\n    3: import Usuari from '../containers/Usuari';\n    4  \n    5  export default function configureRoutes(store) {\n\nC:\\Users\\Etor\\Documents\\cc-outdoor-boilerplate\\client\\HelloWorld\\startup\\AppClient.jsx:\n    3  \n    4  import configureStore from '../store/UsuariStore';\n    5: import Usuari from '../containers/Usuari';\n    6  import configureRoutes from '../routes';\n    7  import { Router, browserHistory } from 'react-router'\n\nC:\\Users\\Etor\\Documents\\cc-outdoor-boilerplate\\client\\HelloWorld\\startup\\AppServer.jsx:\n    3  \n    4  import configureStore from '../store/UsuariStore';\n    5: import Usuari from '../containers/Usuari';\n    6  import configureRoutes from '../routes';\n    7  import { match, RouterContext } from 'react-router'\n\n3 matches across 3 files\n",
+			"settings":
+			{
+				"buffer_size": 11649,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "client/HelloWorld/routes/index.jsx",
+			"settings":
+			{
+				"buffer_size": 421,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/HelloWorld/containers/Usuari.jsx",
+			"settings":
+			{
+				"buffer_size": 2131,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n    \"name\": \"limenius/symfony-react-sandbox\",\n    \"license\": \"MIT\",\n    \"type\": \"project\",\n    \"authors\": [\n        {\n            \"name\": \"Nacho Martín\",\n            \"email\": \"nacho@limenius.com\",\n            \"homepage\": \"http://nacho-martin.com\"\n        }\n    ],\n    \"description\": \"Symfony React Sandbox, where to explore the integration with React and isomorphic or universal react rendering in Symfony and have profit with Webpack\",\n    \"autoload\": {\n        \"psr-4\": { \"\": \"src/\" },\n        \"classmap\": [ \"app/AppKernel.php\", \"app/AppCache.php\" ]\n    },\n    \"autoload-dev\": {\n        \"psr-4\": { \"Tests\\\\\": \"tests/\" }\n    },\n    \"require\": {\n       \"php\": \">=5.5.9\",\n       \"symfony/symfony\": \"3.1.*\",\n       \"doctrine/orm\": \"^2.5\",\n       \"doctrine/doctrine-bundle\": \"^1.6\",\n       \"doctrine/doctrine-cache-bundle\": \"^1.2\",\n       \"symfony/swiftmailer-bundle\": \"^2.3\",\n       \"symfony/monolog-bundle\": \"^2.8\",\n       \"symfony/polyfill-apcu\": \"^1.0\",\n       \"sensio/distribution-bundle\": \"^5.0\",\n       \"sensio/framework-extra-bundle\": \"^3.0.2\",\n        \"incenteev/composer-parameter-handler\": \"^2.0\",\n        \"limenius/react-bundle\": \"^0.9\",\n        \"nelmio/api-doc-bundle\": \"^2.13\",\n        \"friendsofsymfony/rest-bundle\": \"^2.1\"\n    },\n    \"require-dev\": {\n        \"sensio/generator-bundle\": \"^3.0\",\n        \"symfony/phpunit-bridge\": \"^3.0\"\n    },\n    \"scripts\": {\n        \"post-install-cmd\": [\n            \"Incenteev\\\\ParameterHandler\\\\ScriptHandler::buildParameters\",\n            \"Sensio\\\\Bundle\\\\DistributionBundle\\\\Composer\\\\ScriptHandler::buildBootstrap\",\n            \"Sensio\\\\Bundle\\\\DistributionBundle\\\\Composer\\\\ScriptHandler::clearCache\",\n            \"Sensio\\\\Bundle\\\\DistributionBundle\\\\Composer\\\\ScriptHandler::installAssets\",\n            \"Sensio\\\\Bundle\\\\DistributionBundle\\\\Composer\\\\ScriptHandler::installRequirementsFile\",\n            \"Sensio\\\\Bundle\\\\DistributionBundle\\\\Composer\\\\ScriptHandler::prepareDeploymentTarget\"\n        ],\n        \"post-update-cmd\": [\n            \"Incenteev\\\\ParameterHandler\\\\ScriptHandler::buildParameters\",\n            \"Sensio\\\\Bundle\\\\DistributionBundle\\\\Composer\\\\ScriptHandler::buildBootstrap\",\n            \"Sensio\\\\Bundle\\\\DistributionBundle\\\\Composer\\\\ScriptHandler::clearCache\",\n            \"Sensio\\\\Bundle\\\\DistributionBundle\\\\Composer\\\\ScriptHandler::installAssets\",\n            \"Sensio\\\\Bundle\\\\DistributionBundle\\\\Composer\\\\ScriptHandler::installRequirementsFile\",\n            \"Sensio\\\\Bundle\\\\DistributionBundle\\\\Composer\\\\ScriptHandler::prepareDeploymentTarget\"\n        ]\n    },\n    \"config\": {\n        \"platform\": {\n            \"php\": \"5.5.9\"\n        }\n    },\n    \"extra\": {\n        \"symfony-app-dir\": \"app\",\n        \"symfony-bin-dir\": \"bin\",\n        \"symfony-var-dir\": \"var\",\n        \"symfony-web-dir\": \"web\",\n        \"symfony-tests-dir\": \"tests\",\n        \"symfony-assets-install\": \"relative\",\n        \"incenteev-parameters\": {\n            \"file\": \"app/config/parameters.yml\"\n        },\n        \"branch-alias\": {\n            \"dev-master\": \"3.1-dev\"\n        }\n    },\n    \"minimum-stability\": \"stable\"\n}\n",
+			"file": "composer.json",
+			"file_size": 3159,
+			"file_write_time": 131232751417219795,
+			"settings":
+			{
+				"buffer_size": 3070,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 264.0,
+		"history":
+		[
+			"echo 'hola'",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"pyton",
+			"cd ",
+			"l",
+			"ll",
+			"ls",
+			"ftp",
+			"git",
+			"cd ..",
+			"ls",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/app",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/app/Resources",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/app/Resources/views",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/app/Resources/views/app",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/app/Resources/webpack",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/client",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/client/HelloWorld",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/client/HelloWorld/actions",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/client/HelloWorld/components",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/client/HelloWorld/containers",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/client/HelloWorld/startup",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/client/HelloWorld/store",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/node_modules",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/node_modules/jquery-ujs",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/node_modules/jquery-ujs/src",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/src",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/src/AppBundle",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/src/AppBundle/Controller"
+	],
+	"file_history":
+	[
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/src/AppBundle/Controller/AppController.php",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/client/HelloWorld/containers/Usuari.jsx",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/app/Resources/views/app/app.html.twig",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/client/HelloWorld/startup/clientRegistration.jsx",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/app/AppKernel.php",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/client/HelloWorld/components/pepito.jsx",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/node_modules/jquery-ujs/src/rails.js",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/app/Resources/webpack/server-bundle.js",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/app/config/config.yml",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/src/AppBundle/Resources/Data/usuari.yml",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/client/HelloWorld/store/UsuariStore.jsx",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/client/HelloWorld/reducers/usuariReducer.jsx",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/client/HelloWorld/actions/Actions.jsx",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/web/config.php",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/src/AppBundle/Model/Usuari.php",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/composer.json",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/app/config/routing.yml",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/src/AppBundle/UsuariManager.php",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/README.md",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/client/Recipes-redux/actions/recipesActions.jsx",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/app/config/routing.yml",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/app/config/config.yml",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/app/AppKernel.php",
+		"/C/Users/Etor/Desktop/logs_10_velo/ws_reports_import_ws_data.inc",
+		"/C/Users/Etor/AppData/Local/Temp/fz3temp-2/summaryLog2sql.php",
+		"/C/Users/Etor/Documents/cc-outdoor-boilerplate/.git/config",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/README.md",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/app/Resources/views/base.html.twig",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/app/Resources/views/recipe/recipe.html.twig",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/webpack.config.serverside.js",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/app/Resources/views/recipe/home.html.twig",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/client/Recipes-redux/components/RecipeList.jsx",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/client/Recipes-redux/reducers/index.jsx",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/app/Resources/webpack/server-bundle.js",
+		"/C/Users/Etor/Documents/symfony-react-sandbox/node_modules/css-loader/node_modules/cssnano/node_modules/postcss-minify-selectors/node_modules/postcss-selector-parser/dist/index.js",
+		"/C/Users/Etor/Documents/proves_appsistencia/Vagrantfile",
+		"/C/Users/Etor/Documents/proves_appsistencia/sftp-config.json",
+		"/C/Users/Etor/Documents/proves_appsistencia/README.md",
+		"/C/Users/Etor/Documents/proves_appsistencia/hola.txt",
+		"/C/Users/Etor/Documents/proves_appsistencia/provision.sh",
+		"/C/Users/Etor/Documents/proves_appsistencia/keys/id_rsa",
+		"/C/Users/Etor/Documents/proves_appsistencia/keys/id_rsa.ppk",
+		"/C/Users/Etor/Documents/proves_appsistencia/vagrant_log/0.txt",
+		"/C/Users/Etor/Desktop/exemple_react.html",
+		"/C/Users/Etor/Desktop/logs_malmo/PRO_MMX_xls_wslog.log.5",
+		"/C/Users/Etor/Downloads/v8js-1.3.3/README.md",
+		"/C/Users/Etor/Desktop/logs_malmo/log.txt",
+		"/C/xampp/htdocs/proves/proves.php",
+		"/C/xampp/php/php.ini",
+		"/C/Users/Etor/Desktop/logs_malmo/crono_59743.log",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Handler/Admin/CancelPurchasedProductFormHandler.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Controller/API/Admin/AdminShopController.php",
+		"/C/Users/Etor/Desktop/vagrant-lamp-master/provision-sql/appsistencia_db.sql",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Entity/Player.php",
+		"/C/Users/Etor/Desktop/vagrant-lamp-master/provision.sh",
+		"/C/Users/Etor/Desktop/vagrant-lamp-master/src/index.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Library/ChallengeProgressPointCalculator.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Model/PurchasedProductModel.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Handler/PlayerFormHandler.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Type/Admin/CancelPurchasedProductFormType.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Type/Admin/PlayerFormType.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Model/Admin/CancelPurchasedProductModel.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Model/Admin/PlayerAddPointsModel.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Handler/Admin/PlayerFormHandler.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Controller/API/Admin/AdminPlayerController.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Repository/PlayerRepository.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Resources/config/services.yml",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Handler/Admin/ProductFormHandler.php",
+		"/C/Users/Etor/Documents/cc-gamification/scripts/gamification_cancelation.sql",
+		"/C/Users/Etor/Desktop/vagrant-lamp-master/provision-sql/01_Example.sql",
+		"/C/Users/Etor/Desktop/check_ws_times.php",
+		"/C/Users/Etor/Desktop/ws_calls_duration_BCN.log",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Entity/TransactionType.php",
+		"/C/Users/Etor/Documents/cc-gamification/Vagrantfile",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Entity/PurchasedProduct.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Model/PurchasedProductsResponse.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Controller/API/ShopController.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Controller/API/PlayerController.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Model/Admin/AdminChallengeResponse.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Entity/Challenge.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Controller/API/Admin/AdminChallengeController.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Entity/CancelPurchasedProduct.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Handler/Admin/RedeemProductFormHandler.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Model/Admin/ProductModel.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Repository/PurchasedProductRepository.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Repository/TransactionRepository.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Repository/ProductRepository.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Controller/API/Admin/AdminTransactionController.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Entity/Product.php",
+		"/C/Users/Etor/Documents/cc-gamification/app/config/parameters.yml.dist",
+		"/C/Users/Etor/Documents/cc-gamification/app/config/parameters.yml",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Entity/Provider.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Type/Admin/RedeemProductFormType.php",
+		"/C/Users/Etor/Documents/cc-gamification/vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Controller/API/ChallengeController.php",
+		"/C/Users/Etor/Documents/cc-gamification/sftp-config.json",
+		"/C/Users/Etor/Documents/cc-gamification/composer.json",
+		"/C/Users/Etor/Documents/cc-gamification/README.md",
+		"/C/Users/Etor/Documents/shh keys/socis_tresA",
+		"/C/Users/Etor/Documents/shh keys/public",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Resources/config/routing.yml",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Controller/DefaultController.php",
+		"/C/Users/Etor/Documents/cc-gamification/vendor/hautelook/alice-bundle/tests/SymfonyApp/config/routing.yml",
+		"/C/Users/Etor/Documents/restapi/wsgi/mybottleapp.py",
+		"/C/Users/Etor/Documents/restapi/setup.py",
+		"/C/Users/Etor/Documents/restapi/coses.txt",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Handler/Admin/CancelPurchasedProductFromHandler.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Handler/FailedTripFormHandler.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Controller/API/Admin/AdminTripController.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Entity/Transaction.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Repository/ProductTypeRepository.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Form/Type/Admin/CancelProductFormType.php",
+		"/C/Users/Etor/Desktop/guillermos/friends.py",
+		"/C/Users/Etor/Desktop/guillermos/friends.txt",
+		"/C/Users/Etor/Documents/shh keys/nova",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Entity/ProductCategory.php",
+		"/C/Users/Etor/Desktop/phpldap/home.php",
+		"/C/Users/Etor/Desktop/phpldap/login.php",
+		"/C/Users/Etor/Desktop/apunts m6uf4.js",
+		"/C/Users/Etor/Desktop/accessibilitat_ETOR_DIAZ.docx",
+		"/C/Users/Etor/Desktop/usabilitat_ETOR_DIAZ.docx",
+		"/C/Users/Etor/DAW/M9 Disseny d'interfícies Web/UF3/USABILITAT/revisio_heuristica_ETOR_DIAZ.xlsx",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/Controller/API/Admin/AdminBaseController.php",
+		"/C/Users/Etor/Documents/cc-gamification/src/CC/AppBundle/CCAppBundle.php",
+		"/C/Users/Etor/Documents/cc-gamification/delete.txt",
+		"/C/Users/Etor/Documents/cc_api/src/CC/InternalAPIBundle/Resources/config/validation.yml",
+		"/C/Users/Etor/Documents/cc_api/src/CC/InternalAPIBundle/Form/Type/PinAssignationFormType.php",
+		"/C/Users/Etor/Documents/cc-vagrant/sftp-config.json"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\Etor\\Documents\\cc-outdoor-boilerplate\\client",
+			"C:\\Users\\Etor\\Documents\\cc-outdoor-boilerplate\\",
+			"C:\\Users\\Etor\\Documents\\cc-outdoor-boilerplate\\client",
+			"<open folders>",
+			"C:/Users/Etor/Documents/cc-gamification/src",
+			"<open folders>",
+			"C:\\Users\\Etor\\Documents\\cc-gamification\\src",
+			"<open folders>",
+			"C:\\Users\\Etor\\Documents\\cc-vagrant\\",
+			"C:\\Users\\Etor\\Documents\\cc-vagrant\\install",
+			"C:\\Users\\Etor\\Documents\\cc-vagrant",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\/*! jQuery v2.1.3 | (c) 2005, 2014 jQuery Foundation, Inc. | jquery.org/license */\n!function(a,b){\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error(\"jQuery requires a window with a document\");return b(a)}:b(a)}(\"undefined\"!=typeof wind$\n},removeData:function(a,b){M.remove(a,b)},_data:function(a,b,c){return L.access(a,b,c)},_removeData:function(a,b){L.remove(a,b)}}),n.fn.extend({data:function(a,b){var c,d,e,f=this[0],g=f&&f.attributes;if(void 0===a){if(this.length&&(e=M$\n},removeAttr:function(a,b){var c,d,e=0,f=b&&b.match(E);if(f&&1===a.nodeType)while(c=f[e++])d=n.propFix[c]||c,n.expr.match.bool.test(c)&&(a[d]=!1),a.removeAttribute(c)},attrHooks:{type:{set:function(a,b){if(!k.radioValue&&\"radio\"===b&&n.$\n\n/*!\n * Bootstrap v3.3.6 (http://getbootstrap.com)\n * Copyright 2011-2015 Twitter, Inc.\n * Licensed under the MIT license\n */\nif(\"undefined\"==typeof jQuery)throw new Error(\"Bootstrap's JavaScript requires jQuery\");+function(a){\"use strict\";var b=a.fn.jquery.split(\" \")[0].split(\".\");if(b[0]<2&&b[1]<9||1==b[0]&&9==b[1]&&b[2]<1||b[0]>2)throw new Error(\"Bootstrap'$\nd.parent(\".dropdown-menu\").length&&(d=d.closest(\"li.dropdown\").addClass(\"active\")),d.trigger(\"activate.bs.scrollspy\")},b.prototype.clear=function(){a(this.selector).parentsUntil(this.options.target,\".active\").removeClass(\"active\")};var $\n\nC:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\/*! jQuery v2.1.3 | (c) 2005, 2014 jQuery Foundation, Inc. | jquery.org/license */\n!function(a,b){\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error(\"jQuery requires a window with a document\");return b(a)}:b(a)}(\"undefined\"!=typeof wind$\n},removeData:function(a,b){M.remove(a,b)},_data:function(a,b,c){return L.access(a,b,c)},_removeData:function(a,b){L.remove(a,b)}}),n.fn.extend({data:function(a,b){var c,d,e,f=this[0],g=f&&f.attributes;if(void 0===a){if(this.length&&(e=M$\n},removeAttr:function(a,b){var c,d,e=0,f=b&&b.match(E);if(f&&1===a.nodeType)while(c=f[e++])d=n.propFix[c]||c,n.expr.match.bool.test(c)&&(a[d]=!1),a.removeAttribute(c)},attrHooks:{type:{set:function(a,b){if(!k.radioValue&&\"radio\"===b&&n.$\n\n/*!\n * Bootstrap v3.3.6 (http://getbootstrap.com)\n * Copyright 2011-2015 Twitter, Inc.\n * Licensed under the MIT license\n */\nif(\"undefined\"==typeof jQuery)throw new Error(\"Bootstrap's JavaScript requires jQuery\");+function(a){\"use strict\";var b=a.fn.jquery.split(\" \")[0].split(\".\");if(b[0]<2&&b[1]<9||1==b[0]&&9==b[1]&&b[2]<1||b[0]>2)throw new Error(\"Bootstrap'$\nd.parent(\".dropdown-menu\").length&&(d=d.closest(\"li.dropdown\").addClass(\"active\")),d.trigger(\"activate.bs.scrollspy\")},b.prototype.clear=function(){a(this.selector).parentsUntil(this.options.target,\".active\").removeClass(\"active\")};var $\n\nC:\\web_projects\\cc-middleware",
+			"C:\\web_projects\\cc-middleware\\/*! jQuery v2.1.3 | (c) 2005, 2014 jQuery Foundation, Inc. | jquery.org/license */\n!function(a,b){\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error(\"jQuery requires a window with a document\");return b(a)}:b(a)}(\"undefined\"!=typeof wind$\n},removeData:function(a,b){M.remove(a,b)},_data:function(a,b,c){return L.access(a,b,c)},_removeData:function(a,b){L.remove(a,b)}}),n.fn.extend({data:function(a,b){var c,d,e,f=this[0],g=f&&f.attributes;if(void 0===a){if(this.length&&(e=M$\n},removeAttr:function(a,b){var c,d,e=0,f=b&&b.match(E);if(f&&1===a.nodeType)while(c=f[e++])d=n.propFix[c]||c,n.expr.match.bool.test(c)&&(a[d]=!1),a.removeAttribute(c)},attrHooks:{type:{set:function(a,b){if(!k.radioValue&&\"radio\"===b&&n.$\n\n/*!\n * Bootstrap v3.3.6 (http://getbootstrap.com)\n * Copyright 2011-2015 Twitter, Inc.\n * Licensed under the MIT license\n */\nif(\"undefined\"==typeof jQuery)throw new Error(\"Bootstrap's JavaScript requires jQuery\");+function(a){\"use strict\";var b=a.fn.jquery.split(\" \")[0].split(\".\");if(b[0]<2&&b[1]<9||1==b[0]&&9==b[1]&&b[2]<1||b[0]>2)throw new Error(\"Bootstrap'$\nd.parent(\".dropdown-menu\").length&&(d=d.closest(\"li.dropdown\").addClass(\"active\")),d.trigger(\"activate.bs.scrollspy\")},b.prototype.clear=function(){a(this.selector).parentsUntil(this.options.target,\".active\").removeClass(\"active\")};var $\n\n<open folders>",
+			"C:\\web_projects\\cc-middleware\\/*! jQuery v2.1.3 | (c) 2005, 2014 jQuery Foundation, Inc. | jquery.org/license */\n!function(a,b){\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error(\"jQuery requires a window with a document\");return b(a)}:b(a)}(\"undefined\"!=typeof wind$\n},removeData:function(a,b){M.remove(a,b)},_data:function(a,b,c){return L.access(a,b,c)},_removeData:function(a,b){L.remove(a,b)}}),n.fn.extend({data:function(a,b){var c,d,e,f=this[0],g=f&&f.attributes;if(void 0===a){if(this.length&&(e=M$\n},removeAttr:function(a,b){var c,d,e=0,f=b&&b.match(E);if(f&&1===a.nodeType)while(c=f[e++])d=n.propFix[c]||c,n.expr.match.bool.test(c)&&(a[d]=!1),a.removeAttribute(c)},attrHooks:{type:{set:function(a,b){if(!k.radioValue&&\"radio\"===b&&n.$\n\n/*!\n * Bootstrap v3.3.6 (http://getbootstrap.com)\n * Copyright 2011-2015 Twitter, Inc.\n * Licensed under the MIT license\n */\nif(\"undefined\"==typeof jQuery)throw new Error(\"Bootstrap's JavaScript requires jQuery\");+function(a){\"use strict\";var b=a.fn.jquery.split(\" \")[0].split(\".\");if(b[0]<2&&b[1]<9||1==b[0]&&9==b[1]&&b[2]<1||b[0]>2)throw new Error(\"Bootstrap'$\nd.parent(\".dropdown-menu\").length&&(d=d.closest(\"li.dropdown\").addClass(\"active\")),d.trigger(\"activate.bs.scrollspy\")},b.prototype.clear=function(){a(this.selector).parentsUntil(this.options.target,\".active\").removeClass(\"active\")};var $\n\n",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\vendor",
+			"C:\\web_projects\\cc-middleware\\web",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\app",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\app",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\app",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\src\\CC\\AppBundle\\Form\\Type",
+			"C:\\web_projects\\cc-middleware",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\vendor\\basetis",
+			"C:\\web_projects\\cc-middleware\\vendor\\",
+			"C:\\web_projects\\cc-middleware\\src\\",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\src\\",
+			"C:\\web_projects\\cc-middleware\\src\\CC\\AdminBundle",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\web_projects\\cc-middleware\\app",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware",
+			"C:\\web_projects\\cc-middleware\\src",
+			"C:\\web_projects\\cc-middleware\\",
+			"C:\\Users\\Etor\\Documents\\cc-middleware\\",
+			"C:\\Users\\Etor\\Documents\\middleware\\",
+			"C:\\Users\\Etor\\Documents\\middleware\\src\\CC",
+			"C:\\Users\\Etor\\Documents\\middleware\\src\\CC, C:\\Users\\Etor\\Documents\\middleware\\vendor",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC, C:\\Users\\Etor\\Documents\\web\\api_v3\\vendor",
+			"C:\\Users\\Etor\\Documents\\middleware\\",
+			"C:\\Users\\Etor\\Documents\\middleware\\src\\CC",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC\\AdminBundle",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\CC\\AdminBundle",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\CC\\AdminNundle",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC\\AdminBundle",
+			"<open folders>,C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC\\AdminBundle",
+			"<open folders>",
+			"",
+			"*routing.yml",
+			"*routin.php",
+			"*router.php",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC\\APPbundle",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\appbundle",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\vendor\\basetis",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC\\AppBundle",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\vendor\\basetis",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\app\\CC",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\app\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC\\APIBundle\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC\\APIBundle\\Util",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC\\APIBundle\\",
+			"C:\\Users\\Etor\\Documents\\web\\api_v3\\src\\CC\\APIBundle\\Entity",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"app",
+			"/containers/Usuari",
+			"usuariState",
+			"client_side",
+			"\n",
+			"jquery",
+			"jquery-ujs",
+			"express",
+			"React.",
+			"lodash",
+			"history",
+			"connect",
+			"mapDispatchToProps ",
+			"set",
+			"usuari",
+			"$usuariEntity",
+			"usuariEntityArray",
+			"recipe",
+			"Recipe",
+			"recipe",
+			"\n",
+			"client_side",
+			"mapDispatch",
+			"client_side",
+			"{{ react_component('RecipesApp', {'props': props, 'rendering': 'client_side'}) }}",
+			"client_side",
+			"port",
+			"vagrant",
+			"appsistencia",
+			"forward_agent",
+			"forward_agent ",
+			"forward_agent",
+			"middleware",
+			"59743",
+			"353755",
+			"payment",
+			"finalize_payment",
+			"353754",
+			"16092417412123",
+			"{\"ErrorCode\":\"0\",\"ErrorText\":{},\"ErrorElementField\":{},\"Id\":\"353754\"}",
+			"353754",
+			"16092417434913",
+			"59743",
+			"Total",
+			"points",
+			"cancelpurchased",
+			"processActivatePlayer",
+			"bko_user",
+			"Manually adding points",
+			"SubEndDate",
+			"SubEndDate ",
+			"SubEndDate",
+			"hello world",
+			"player",
+			"git",
+			"cancelPurchasedProduct",
+			"cancelPurchasedProducts",
+			"MANUAL_ADD_TRANSACTION_TYPE_ID",
+			" $transaction = new Transaction();\n                $transaction",
+			"purchasedProductModel",
+			"purchasedProductsResponse",
+			"purchasedProductResponse",
+			"purchasedProduct",
+			"Expose",
+			"* @Type",
+			"/**\n    * @Type",
+			"/**\n    * @Type(\"string\")\n    */",
+			"challengeBasicList",
+			"Admin / Shop",
+			"@Groups({\"shop\"})",
+			"challengeBasicList",
+			"AdminChallengeResponse",
+			"Expose",
+			"profile",
+			"serializerGroups",
+			"View",
+			"purchasedproduct",
+			"purchasedproduc",
+			"view",
+			"groups",
+			"PurchasedProductModel",
+			"new PurchasedProductModel",
+			"purchasedproduct",
+			"scope",
+			",",
+			"purchasedproduct",
+			"purchased",
+			"findTransactionsByPlayer",
+			"playeraddpoints",
+			"reason",
+			"sumPlayerPointsByTypeAndDateRange",
+			"transaction",
+			"Add manually points to a player",
+			"('CCAppBundle:Product')->findTranslated",
+			"findTranslate",
+			"findTranslated",
+			"findByProductAndPlayer",
+			"']",
+			"()",
+			"->",
+			"$this->form->",
+			"cancelpurchased",
+			"CCAppBundle",
+			"post",
+			"@get",
+			"@put",
+			"@post",
+			"@Put",
+			"put",
+			"ParamConverter",
+			"cancelPurchasedProduct",
+			"CancelPurchasedProduct",
+			"CancelPurchasedProductModel",
+			"/**\n     * @Type(\"string\")\n     */",
+			"Redeem a product",
+			"player",
+			"cancelpurchased",
+			"purchasedProductFormData",
+			"CancelPurchasedProductFormType",
+			"handler",
+			"date",
+			"productsaction",
+			"request",
+			"purchasedproducts",
+			"findTranslated",
+			"isCancelable",
+			"iscancelable",
+			"Groups"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\Etor\\Documents\\cc-outdoor-boilerplate"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1889,
+								1889
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 466.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11649,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										307,
+										318
+									],
+									[
+										651,
+										662
+									],
+									[
+										945,
+										956
+									],
+									[
+										1136,
+										1147
+									],
+									[
+										1379,
+										1390
+									],
+									[
+										1672,
+										1683
+									],
+									[
+										2021,
+										2032
+									],
+									[
+										2059,
+										2070
+									],
+									[
+										2211,
+										2222
+									],
+									[
+										2248,
+										2259
+									],
+									[
+										2427,
+										2438
+									],
+									[
+										2659,
+										2670
+									],
+									[
+										2817,
+										2828
+									],
+									[
+										3084,
+										3095
+									],
+									[
+										3240,
+										3251
+									],
+									[
+										3262,
+										3273
+									],
+									[
+										4816,
+										4827
+									],
+									[
+										4854,
+										4865
+									],
+									[
+										4968,
+										4979
+									],
+									[
+										5005,
+										5016
+									],
+									[
+										9577,
+										9588
+									],
+									[
+										10912,
+										10930
+									],
+									[
+										11181,
+										11199
+									],
+									[
+										11495,
+										11513
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								10919,
+								10919
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\Users\\Etor\\Documents\\cc-outdoor-boilerplate",
+							"detect_indentation": false,
+							"incomplete_sync": null,
+							"line_numbers": false,
+							"output_tag": 4,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/HelloWorld/routes/index.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/HelloWorld/containers/Usuari.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1474,
+								1474
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 606.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "composer.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3070,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2815,
+								2815
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 946.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"controller",
+				"src\\AppBundle\\Controller\\AppController.php"
+			],
+			[
+				"registrat",
+				"client\\HelloWorld\\startup\\clientRegistration.jsx"
+			],
+			[
+				"app.html.twig",
+				"app\\Resources\\views\\app\\app.html.twig"
+			],
+			[
+				"config",
+				"web\\config.php"
+			],
+			[
+				"appcontrol",
+				"src\\AppBundle\\Controller\\AppController.php"
+			],
+			[
+				"appker",
+				"app\\AppKernel.php"
+			],
+			[
+				"appcontro",
+				"src\\AppBundle\\Controller\\AppController.php"
+			],
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"appkernel",
+				"app\\AppKernel.php"
+			],
+			[
+				"reci",
+				"client\\Recipes-redux\\components\\RecipeList.jsx"
+			],
+			[
+				"home.",
+				"app\\Resources\\views\\recipe\\home.html.twig"
+			],
+			[
+				"web",
+				"webpack.config.serverside.js"
+			],
+			[
+				"player",
+				"src\\CC\\AppBundle\\Entity\\Player.php"
+			],
+			[
+				"cancel",
+				"src\\CC\\AppBundle\\Form\\Type\\Admin\\CancelPurchasedProductFormType.php"
+			],
+			[
+				"cancelp",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\CancelPurchasedProductFormHandler.php"
+			],
+			[
+				"playerform",
+				"src\\CC\\AppBundle\\Form\\Handler\\PlayerFormHandler.php"
+			],
+			[
+				"addpoin",
+				"src\\CC\\AppBundle\\Form\\Model\\Admin\\PlayerAddPointsModel.php"
+			],
+			[
+				"productformhandl",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\ProductFormHandler.php"
+			],
+			[
+				"productformha",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\ProductFormHandler.php"
+			],
+			[
+				"playerformhan",
+				"src\\CC\\AppBundle\\Form\\Handler\\PlayerFormHandler.php"
+			],
+			[
+				"cancelpurcha",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\CancelPurchasedProductFormHandler.php"
+			],
+			[
+				"vagrant",
+				"Vagrantfile"
+			],
+			[
+				"vagrantfile",
+				"Vagrantfile"
+			],
+			[
+				"cancelpur",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\CancelPurchasedProductFormHandler.php"
+			],
+			[
+				"adminshop",
+				"src\\CC\\AppBundle\\Controller\\API\\Admin\\AdminShopController.php"
+			],
+			[
+				"purchased",
+				"src\\CC\\AppBundle\\Entity\\PurchasedProduct.php"
+			],
+			[
+				"purch",
+				"src\\CC\\AppBundle\\Form\\Model\\PurchasedProductModel.php"
+			],
+			[
+				"shopcont",
+				"src\\CC\\AppBundle\\Controller\\API\\ShopController.php"
+			],
+			[
+				"shopcontrol",
+				"src\\CC\\AppBundle\\Controller\\API\\ShopController.php"
+			],
+			[
+				"purchasedprodcut",
+				"src\\CC\\AppBundle\\Form\\Model\\PurchasedProductModel.php"
+			],
+			[
+				"shopcontro",
+				"src\\CC\\AppBundle\\Controller\\API\\ShopController.php"
+			],
+			[
+				"productmodl",
+				"src\\CC\\AppBundle\\Form\\Model\\Admin\\ProductModel.php"
+			],
+			[
+				"product",
+				"src\\CC\\AppBundle\\Repository\\ProductRepository.php"
+			],
+			[
+				"transactionrepo",
+				"src\\CC\\AppBundle\\Repository\\TransactionRepository.php"
+			],
+			[
+				"playerformhandler",
+				"src\\CC\\AppBundle\\Form\\Handler\\PlayerFormHandler.php"
+			],
+			[
+				"playerformh",
+				"src\\CC\\AppBundle\\Form\\Handler\\PlayerFormHandler.php"
+			],
+			[
+				"parameters",
+				"app\\config\\parameters.yml.dist"
+			],
+			[
+				"param",
+				"app\\config\\parameters.yml"
+			],
+			[
+				"purchasedproduct",
+				"src\\CC\\AppBundle\\Entity\\PurchasedProduct.php"
+			],
+			[
+				"redeem",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\RedeemProductFormHandler.php"
+			],
+			[
+				"provider",
+				"src\\CC\\AppBundle\\Entity\\Provider.php"
+			],
+			[
+				"services",
+				"src\\CC\\AppBundle\\Resources\\config\\services.yml"
+			],
+			[
+				"cancelerform",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\CancelPurchasedProductFormHandler.php"
+			],
+			[
+				"productrepo",
+				"src\\CC\\AppBundle\\Repository\\ProductRepository.php"
+			],
+			[
+				"cancelpurchasedprodu",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\CancelPurchasedProductFormHandler.php"
+			],
+			[
+				"purchasedprodu",
+				"src\\CC\\AppBundle\\Entity\\PurchasedProduct.php"
+			],
+			[
+				"shopcon",
+				"src\\CC\\AppBundle\\Controller\\API\\ShopController.php"
+			],
+			[
+				"playerre",
+				"src\\CC\\AppBundle\\Repository\\PlayerRepository.php"
+			],
+			[
+				"playercontroller",
+				"src\\CC\\AppBundle\\Controller\\API\\PlayerController.php"
+			],
+			[
+				"purchasedproduc",
+				"src\\CC\\AppBundle\\Entity\\PurchasedProduct.php"
+			],
+			[
+				"purchase",
+				"src\\CC\\AppBundle\\Entity\\PurchasedProduct.php"
+			],
+			[
+				"cancelpu",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\CancelPurchasedProductFormHandler.php"
+			],
+			[
+				"adminplayerfo",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\PlayerFormHandler.php"
+			],
+			[
+				"formhandler",
+				"src\\CC\\AppBundle\\Form\\Handler\\PlayerFormHandler.php"
+			],
+			[
+				"purca",
+				"src\\CC\\AppBundle\\Entity\\PurchasedProduct.php"
+			],
+			[
+				"purchas",
+				"src\\CC\\AppBundle\\Repository\\PurchasedProductRepository.php"
+			],
+			[
+				"purcha",
+				"src\\CC\\AppBundle\\Repository\\PurchasedProductRepository.php"
+			],
+			[
+				"cancelpurchasedproductform",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\CancelPurchasedProductFormHandler.php"
+			],
+			[
+				"routing",
+				"src\\CC\\AppBundle\\Resources\\config\\routing.yml"
+			],
+			[
+				"cancelpurchase",
+				"src\\CC\\AppBundle\\Form\\Type\\Admin\\CancelPurchasedProductFormType.php"
+			],
+			[
+				"cancelpurchasedproductformhandler",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\CancelPurchasedProductFromHandler.php"
+			],
+			[
+				"service",
+				"src\\CC\\AppBundle\\Resources\\config\\services.yml"
+			],
+			[
+				"redeemproductformhandler",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\RedeemProductFormHandler.php"
+			],
+			[
+				"shop",
+				"src\\CC\\AppBundle\\Controller\\API\\Admin\\AdminShopController.php"
+			],
+			[
+				"shopco",
+				"src\\CC\\AppBundle\\Controller\\API\\ShopController.php"
+			],
+			[
+				"purc",
+				"src\\CC\\AppBundle\\Entity\\PurchasedProduct.php"
+			],
+			[
+				"produ",
+				"src\\CC\\AppBundle\\Entity\\Product.php"
+			],
+			[
+				"redeempro",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\RedeemProductFormHandler.php"
+			],
+			[
+				"productreposity",
+				"src\\CC\\AppBundle\\Repository\\ProductTypeRepository.php"
+			],
+			[
+				"reposityu",
+				"src\\CC\\AppBundle\\Repository\\PurchasedProductRepository.php"
+			],
+			[
+				"failedtripfh",
+				"src\\CC\\AppBundle\\Form\\Handler\\FailedTripFormHandler.php"
+			],
+			[
+				"transactiontyp",
+				"src\\CC\\AppBundle\\Entity\\TransactionType.php"
+			],
+			[
+				"transaction",
+				"src\\CC\\AppBundle\\Entity\\Transaction.php"
+			],
+			[
+				"productrepoir",
+				"src\\CC\\AppBundle\\Repository\\ProductRepository.php"
+			],
+			[
+				"reedemproduc",
+				"src\\CC\\AppBundle\\Form\\Handler\\Admin\\RedeemProductFormHandler.php"
+			],
+			[
+				"validation.yml",
+				"src\\CC\\InternalAPIBundle\\Resources\\config\\validation.yml"
+			],
+			[
+				"settings",
+				"cc-vagrant\\www\\drupal\\sites\\malmobybike.se\\settings.php"
+			],
+			[
+				"crm",
+				"vendor\\basetis\\ccws\\src\\Basetis\\CCWS\\Caller\\CRMCaller.php"
+			],
+			[
+				"ccbko",
+				"vendor\\basetis\\ccws\\src\\Basetis\\CCWS\\CCBKO.php"
+			],
+			[
+				"broken",
+				"src\\CC\\AppBundle\\Form\\Handler\\BrokenBikeFormHandler.php"
+			],
+			[
+				"base_les",
+				"vendor\\mopa\\bootstrap-bundle\\Mopa\\Bundle\\BootstrapBundle\\Resources\\views\\base_less.html.twig"
+			],
+			[
+				"clienttype",
+				"src\\CC\\AdminBundle\\Form\\Type\\ClientFormType.php"
+			],
+			[
+				"base_less",
+				"vendor\\mopa\\bootstrap-bundle\\Mopa\\Bundle\\BootstrapBundle\\Resources\\views\\base_less.html.twig"
+			],
+			[
+				"base.html",
+				"app\\Resources\\views\\base.html.twig"
+			],
+			[
+				"base.",
+				"app\\Resources\\views\\base.html.twig"
+			],
+			[
+				"layout",
+				"src\\CC\\AdminBundle\\Resources\\views\\layout.html.twig"
+			],
+			[
+				"customerhand",
+				"src\\CC\\AppBundle\\Form\\Handler\\CustomerHandler.php"
+			],
+			[
+				"mopaboostrap-collection",
+				"web\\bundles\\mopabootstrap\\js\\mopabootstrap-collection.js"
+			],
+			[
+				"edit.h",
+				"src\\CC\\AdminBundle\\Resources\\views\\Client\\edit.html.twig"
+			],
+			[
+				"customercontro",
+				"src\\CC\\APIBundle\\Controller\\CustomerController.php"
+			],
+			[
+				"cityloceale",
+				"vendor\\basetis\\ccws\\src\\Basetis\\CCWS\\Tests\\Caller\\CityLocaleCallerTest.php"
+			],
+			[
+				"internalse",
+				"src\\CC\\AppBundle\\Resources\\config\\internal_services.yml"
+			],
+			[
+				"customer",
+				"src\\CC\\InternalAPIBundle\\Controller\\CustomerController.php"
+			],
+			[
+				"customerhan",
+				"src\\CC\\AppBundle\\Form\\Handler\\CustomerHandler.php"
+			],
+			[
+				"customercontrol",
+				"src\\CC\\APIBundle\\Controller\\CustomerController.php"
+			],
+			[
+				"internalcontrol",
+				"src\\CC\\InternalAPIBundle\\Controller\\ProblemReportController.php"
+			],
+			[
+				"stationcontro",
+				"src\\CC\\APIBundle\\Controller\\StationController.php"
+			],
+			[
+				"generate",
+				"src\\CC\\AppBundle\\Command\\GenerateCityCommand.php"
+			],
+			[
+				"internals",
+				"src\\CC\\AppBundle\\Resources\\config\\internal_services.yml"
+			],
+			[
+				"stationform",
+				"src\\CC\\AppBundle\\Form\\Handler\\StationFormHandler.php"
+			],
+			[
+				"config_",
+				"app\\config\\config_dev_malmo.yml"
+			],
+			[
+				"operationcontroll",
+				"src\\CC\\InternalAPIBundle\\Controller\\OperationController.php"
+			],
+			[
+				"stationissue",
+				"src\\CC\\AppBundle\\Model\\StationIssues.php"
+			],
+			[
+				"stationissuefor",
+				"src\\CC\\AppBundle\\Form\\Type\\StationIssuesFormType.php"
+			],
+			[
+				"stationissuefo",
+				"src\\CC\\AppBundle\\Form\\Handler\\StationIssueFormHandler.php"
+			],
+			[
+				"problemreportcontrol",
+				"src\\CC\\InternalAPIBundle\\Controller\\ProblemReportController.php"
+			],
+			[
+				"problemreport",
+				"src\\CC\\APIBundle\\Controller\\ProblemReportController.php"
+			],
+			[
+				"validation",
+				"src\\CC\\AppBundle\\Resources\\config\\validation.yml"
+			],
+			[
+				"basecaller",
+				"vendor\\basetis\\ccws\\src\\Basetis\\CCWS\\Caller\\BaseCaller.php"
+			],
+			[
+				"stationcon",
+				"src\\CC\\AdminBundle\\Controller\\StationController.php"
+			],
+			[
+				"stationproblem",
+				"src\\CC\\AppBundle\\Validator\\Constraints\\StationProblemValidator.php"
+			],
+			[
+				"commentform",
+				"src\\CC\\AppBundle\\Form\\Handler\\CommentFormHandler.php"
+			],
+			[
+				"internal_servi",
+				"src\\CC\\AppBundle\\Resources\\config\\internal_services.yml"
+			],
+			[
+				"problem",
+				"src\\CC\\APIBundle\\Controller\\ProblemReportController.php"
+			],
+			[
+				"internalser",
+				"src\\CC\\AppBundle\\Resources\\config\\internal_services.yml"
+			],
+			[
+				"lostcardf",
+				"src\\CC\\AppBundle\\Form\\Handler\\LostCardFormHandler.php"
+			],
+			[
+				"stationini",
+				"src\\CC\\AppBundle\\Form\\Handler\\StationInitializationFormHandler.php"
+			],
+			[
+				"problemrepor",
+				"src\\CC\\APIBundle\\Controller\\ProblemReportController.php"
+			],
+			[
+				"comment",
+				"src\\CC\\AppBundle\\Model\\Comment.php"
+			],
+			[
+				"sfh",
+				"src\\CC\\AppBundle\\Form\\Handler\\SubscriptionFormHandler.php"
+			],
+			[
+				"lostcard",
+				"src\\CC\\AppBundle\\Form\\Handler\\LostCardFormHandler.php"
+			],
+			[
+				"lostcardform",
+				"src\\CC\\AppBundle\\Form\\Type\\LostCardFormType.php"
+			],
+			[
+				"commentformty",
+				"src\\CC\\AppBundle\\Form\\Type\\CommentFormType.php"
+			],
+			[
+				"succes",
+				"src\\CC\\AppBundle\\Form\\Handler\\SuccessfulPaymentFinalizationFormHandler.php"
+			],
+			[
+				"stationcontrol",
+				"src\\CC\\APIBundle\\Controller\\StationController.php"
+			],
+			[
+				"problemre",
+				"src\\CC\\APIBundle\\Controller\\ProblemReportController.php"
+			],
+			[
+				"crmservicet",
+				"vendor\\basetis\\ccws\\src\\Basetis\\CCWS\\Tests\\Service\\CRMServiceTest.php"
+			],
+			[
+				"succe",
+				"src\\CC\\AppBundle\\Form\\Handler\\SuccessfulPaymentFinalizationFormHandler.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mid",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\middleware.sublime-project"
+			],
+			[
+				"mi",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\middleware.sublime-project"
+			],
+			[
+				"middle",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\middleware.sublime-project"
+			],
+			[
+				"",
+				"C:\\xampp\\htdocs\\sy2_react_boilerplate\\sy2-react-boilerplate.sublime-workspace"
+			],
+			[
+				"mdd",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\middleware.sublime-project"
+			],
+			[
+				"cc",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\ccapi.sublime-workspace"
+			],
+			[
+				"cca",
+				"C:\\Users\\Etor\\Documents\\cc_api\\cc-api.sublime-project"
+			],
+			[
+				"bici",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\bicing.sublime-project"
+			],
+			[
+				"middl",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\middleware.sublime-project"
+			],
+			[
+				"api",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\api_v3.sublime-project"
+			],
+			[
+				"socis",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\socis3a.sublime-project"
+			],
+			[
+				"cc-api",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\cc-api.sublime-workspace"
+			],
+			[
+				"ccw",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\ccws_drupal.sublime-project"
+			],
+			[
+				"bic",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\bicing.sublime-project"
+			],
+			[
+				"snake",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\snake.sublime-project"
+			],
+			[
+				"sop",
+				"C:\\Users\\Etor\\Documents\\sublime_projects\\SopaDeLletres.sublime-project"
+			]
+		],
+		"width": 674.0
+	},
+	"select_symbol":
+	{
+		"height": 219.0,
+		"last_filter": "processActv",
+		"selected_items":
+		[
+			[
+				"processActv",
+				"processActivatePlayer"
+			],
+			[
+				"putplayer",
+				"putPlayerAction"
+			],
+			[
+				"putPla",
+				"putPlayerAction"
+			],
+			[
+				"findByProductAndPlayer",
+				"findByProductAndPlayer"
+			],
+			[
+				"cancelPurchasedProduct",
+				"cancelPurchasedProductAction"
+			],
+			[
+				"getPurchasedProductsAction",
+				"getPurchasedProductsAction"
+			],
+			[
+				"buildform",
+				"buildForm"
+			],
+			[
+				"getcityda",
+				"getCityData"
+			],
+			[
+				"getcitylocal",
+				"getCityLocaleService"
+			],
+			[
+				"getS3PQuery",
+				"getS3PQuery"
+			],
+			[
+				"logClientsCalls",
+				"logClientsCalls"
+			]
+		],
+		"width": 864.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
