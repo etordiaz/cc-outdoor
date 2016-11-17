@@ -1,6 +1,6 @@
 import React, { PropTypes } from 'react';
 
-export default class Shelter extends React.Component {
+export default class ShelterDetail extends React.Component {
 
     render() {
         var imgsrc = '/assets/build/img/'+this.props.shelter.image;

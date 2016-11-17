@@ -1,7 +1,7 @@
 import React , {Proptypes} from 'react';
 import Actions from '../actions/sheltersActions';
 import { connect } from 'react-redux';
-import ShelterWidget from '../components/Shelter';
+import ShelterWidget from '../components/ShelterDetail';
 import Topbar from '../components/Topbar';
 import { Link } from 'react-router';
 
@@ -32,7 +32,7 @@ class Shelter extends React.Component {
                 <div>
                 <Topbar usuari={this.props.usuari} />
                 <ol className="breadcrumb">
-                <li><Link to='/'>Marquesines</Link></li>
+                <li><Link to={this.props.baseUrl}>Marquesines</Link></li>
                 <li className="active">{this.props.shelter.name}</li>
                 </ol>
                 <ShelterWidget shelter={this.props.shelter}/>

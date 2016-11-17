@@ -6,50 +6,15 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\JsonResponse;
+use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
 use FOS\RestBundle\Controller\Annotations\Get;
 use FOS\RestBundle\Controller\Annotations\Post;
 use Nelmio\ApiDocBundle\Annotation\ApiDoc;
 
 
-class ShelterController extends Controller
+class APIController extends Controller
 {
-    /**
-     * @Route("/", name="homepage")
-     */
-    public function homeAction(Request $request)
-    {
-        $serializer = $this->get('serializer');
-        return $this->render('app/shelters.html.twig', [
-            // We pass an array as props
-            'props' => $serializer->normalize(
-                ['shelters' => $this->get('shelter.manager')->findAll()->shelters,
-                'usuari' => $this->get('usuari.manager')->getUsuari(),
-                // '/' or maybe '/app_dev.php/', so the React Router knows about the root
-                 'baseUrl' => $this->generateUrl('homepage'),
-                 'location' => $request->getRequestUri()
-                ])
-        ]);
-    }
-
-    /**
-     * @Route("/shelter/{slug}", name="shelter")
-     */
-    public function shelterAction($slug, Request $request)
-    {
-        $serializer = $this->get('serializer');
-        if (!$shelter = $this->get('shelter.manager')->findOneBySlug($slug)) {
-            throw $this->createNotFoundException('The shelter does not exist');
-        }
-        return $this->render('app/shelter.html.twig', [
-            // A JSON string also works
-            'props' => $serializer->serialize(
-                ['shelter' => $this->get('shelter.manager')->findOneBySlug($slug),
-                 'baseUrl' => $this->generateUrl('homepage'),
-                 'location' => $request->getRequestUri()
-                ], 'json')
-        ]);
-    }
-
+    
     /**
      * Retorna les dades de totes les marquesines
      *

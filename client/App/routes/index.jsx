@@ -8,6 +8,6 @@ export default function configureRoutes(store) {
     return (
     <div>
     <Route path={baseUrl} component={Shelters}></Route>
-    <Route path={baseUrl+"shelter/:slug"} component={Shelter}/>
+    <Route path={"/shelter/:slug"} component={Shelter}/>
     </div>);
 };

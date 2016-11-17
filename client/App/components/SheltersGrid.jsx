@@ -1,5 +1,5 @@
 import React , {Proptypes} from 'react';
-import Shelter from './Shelter';
+import ShelterBox from './ShelterBox';
 import { connect } from 'react-redux';
 import { Link } from 'react-router'
 require("../../sass/layout.scss");
@@ -28,9 +28,9 @@ export default class SheltersGrid extends React.Component {
             }
             var link = '/shelter/' + shelter.slug;
             shelterNodes.push(
-                <div key={idx}>
+                <div key={idx} className="shelter_box thumbnail">
                     <Link to={link}>
-                        <Shelter key={idx} shelter={shelter} id={idx}/>
+                        <ShelterBox key={idx} shelter={shelter} id={idx}/>
                     </Link>
                 </div>
             );
@@ -39,7 +39,9 @@ export default class SheltersGrid extends React.Component {
             <div className="container">
                <h2>Inici - Sant Andreu de la Barca</h2>
                <h3>Accés per a Municipis</h3>
+               <div className="sheltersGrid">
                 {shelterNodes}
+                </div>
             </div>
            
         );
