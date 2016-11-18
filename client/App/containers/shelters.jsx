@@ -17,6 +17,7 @@ class Shelters extends React.Component {
         if (this.props.fetching || !this.props.shelters) {
             return (
                 <div>
+               <Topbar usuari={this.props.usuari} />
                 Loading...
                 </div>
             );

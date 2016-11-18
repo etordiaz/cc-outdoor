@@ -5,7 +5,6 @@ import { combineReducers }  from 'redux';
 // Combine all reducers you may have here
 export default combineReducers({
     shelters: sheltersReducer,
-
 });
 
 export const initialStates = {

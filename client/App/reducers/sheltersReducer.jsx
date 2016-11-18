@@ -4,7 +4,7 @@ export const initialState = {
     shelters: null,
     shelter: null,
     fetching: false,
-    baeUrl: '/',
+    baseUrl: '/',
     location: '/',
 };
 

@@ -22,11 +22,15 @@ La primera vegada, serà menester executar webpack per a moure tots els assets.
 
 ## Per a desenvolupar
 
-* En un terminal, engegar el webpack-dev-server per a desenvolupar a temps real. 
+* per al hot realoading per la banda client, en un terminal, engegar el webpack-dev-server . 
 
     `webpack-dev-server --progress --colors --config webpack.config.js`
 
-* A més, si no tens el symfony corrent per un XAMPP/WAMPP, pots executar el Symfony server a través d'un altre terminal:
+* Paral·lelament, si (també) estàs renderitzant per servidor i vols tenir hotReloading del server-bundle.js, en un terminal nou:
+
+    `webpack --config webpack.config.serverside.js --watch`
+
+* A més, si no tens el symfony corrent per un servidor local (IIS, XAMPP), pots executar el Symfony server a través d'un altre terminal:
 
     `php bin/console server:start`
 
